@@ -1,0 +1,1001 @@
+StudentID,StudentName,CourseID,CourseName,BatchID,MentorName,Platform,PaymentAmount,DiscountCode,DiscountPercent,TargetRevenue,PaymentDate
+S1000,Rohit Shah,C201,Data Analytics,B3,Priya,Web,12914,DISC20,0.2,14000,17-02-2024
+S1001,Riya Singh,C201,Data Analytics,B3,Priya,Web,12122,DISC10,0.1,14000,14-01-2024
+S1002,Sneha Gupta,C201,Data Analytics,B3,Saurabh,Tablet,14661,DISC15,,14000,27-01-2024
+S1003,Sneha Iyer,C203,Full Stack Dev,B1,Saurabh,Tablet,16731,DISC30,0.3,17000,18-01-2024
+S1004,Karan Patil,C203,Full Stack Dev,B1,Saurabh,Mobile,15396,DISC30,0.3,17000,24-02-2024
+S1005,Pooja Joshi,C203,Full Stack Dev,B1,Amit,Mobile,17196,DISC10,0.1,17000,29-02-2024
+S1006,Rahul Shah,C203,Full Stack Dev,B3,Amit,Mobile,17364,DISC20,0.2,17000,15-02-2024
+S1007,Riya Kulkarni,C202,Data Science,B2,Saurabh,Web,14549,DISC10,0.1,13000,25-01-2024
+S1008,Aditya Iyer,C203,Full Stack Dev,B1,Priya,Mobile,15858,DISC30,0.3,17000,14-02-2024
+S1009,Kunal Singh,C201,Data Analytics,B3,Amit,Web,14187,DISC20,0.2,14000,11-01-2024
+S1010,Neha Verma,C203,Full Stack Dev,B3,Amit,Tablet,15899,DISC30,0.3,17000,23-02-2024
+S1011,Dev Patel,C201,Data Analytics,B1,Saurabh,Mobile,13643,DISC30,0.3,14000,05-01-2024
+S1012,Sneha Joshi,C203,Full Stack Dev,B1,Amit,Mobile,16620,,,17000,10-01-2024
+S1013,Aditya Mehta,C202,Data Science,B3,Amit,Tablet,12076,DISC15,,13000,28-01-2024
+S1014,Kunal Joshi,C204,UI UX Design,B2,Saurabh,Web,9087,,,9000,06-01-2024
+S1015,Dev Kulkarni,C201,Data Analytics,B1,Amit,Web,15244,,,14000,08-02-2024
+S1016,Riya Verma,C204,UI UX Design,B3,Priya,Tablet,8029,DISC15,,9000,25-02-2024
+S1017,Aarav Singh,C201,Data Analytics,B3,Amit,Mobile,15148,DISC30,0.3,14000,08-01-2024
+S1018,Aditya Verma,C202,Data Science,B2,Saurabh,Tablet,14587,DISC30,0.3,13000,02-02-2024
+S1019,Dev Mehta,C201,Data Analytics,B3,Priya,Tablet,14079,DISC15,,14000,13-01-2024
+S1020,Karan Jain,C202,Data Science,B3,Amit,Web,13453,DISC30,0.3,13000,01-02-2024
+S1021,Aarav Shah,C203,Full Stack Dev,B2,Saurabh,Web,15986,DISC15,,17000,01-03-2024
+S1022,Riya Shah,C204,UI UX Design,B1,Amit,Web,7525,,,9000,01-03-2024
+S1023,Manish Mehta,C203,Full Stack Dev,B3,Amit,Mobile,18950,DISC20,0.2,17000,29-02-2024
+S1024,Manish Patel,C202,Data Science,B3,Priya,Mobile,13751,DISC30,0.3,13000,29-01-2024
+S1025,Kunal Gupta,C204,UI UX Design,B1,Saurabh,Web,7262,DISC30,0.3,9000,02-01-2024
+S1026,Kavita Gupta,C202,Data Science,B3,Saurabh,Web,11290,DISC10,0.1,13000,15-01-2024
+S1027,Riya Kulkarni,C203,Full Stack Dev,B1,Amit,Web,16140,,,17000,14-01-2024
+S1028,Manish Mehta,C204,UI UX Design,B1,Priya,Mobile,7779,DISC10,0.1,9000,07-01-2024
+S1029,Rohit Verma,C203,Full Stack Dev,B2,Priya,Mobile,18538,DISC10,0.1,17000,13-02-2024
+S1030,Rohit Singh,C201,Data Analytics,B1,Priya,Tablet,13389,DISC10,0.1,14000,16-01-2024
+S1031,Sneha Patil,C204,UI UX Design,B1,Priya,Web,8140,,,9000,16-01-2024
+S1032,Meera Shah,C204,UI UX Design,B3,Saurabh,Web,9671,DISC15,,9000,23-02-2024
+S1033,Aarav Shah,C202,Data Science,B1,Priya,Mobile,12971,DISC20,0.2,13000,25-02-2024
+S1034,Rahul Kulkarni,C202,Data Science,B2,Saurabh,Mobile,12086,,,13000,19-01-2024
+S1035,Rahul Desai,C204,UI UX Design,B1,Saurabh,Mobile,7891,DISC10,0.1,9000,07-02-2024
+S1036,Anjali Gupta,C201,Data Analytics,B3,Priya,Web,12205,DISC15,,14000,31-01-2024
+S1037,Manish Nair,C202,Data Science,B1,Amit,Web,14487,DISC20,0.2,13000,05-01-2024
+S1038,Kavita Shah,C202,Data Science,B2,Saurabh,Tablet,12008,DISC15,,13000,08-02-2024
+S1039,Aarav Joshi,C201,Data Analytics,B2,Amit,Tablet,14315,DISC15,,14000,21-01-2024
+S1040,Kunal Rao,C202,Data Science,B3,Amit,Mobile,11977,DISC30,0.3,13000,26-01-2024
+S1041,Karan Singh,C203,Full Stack Dev,B2,Priya,Web,15038,,,17000,09-02-2024
+S1042,Kavita Shah,C201,Data Analytics,B3,Saurabh,Tablet,13086,DISC20,0.2,14000,29-02-2024
+S1043,Pooja Shah,C202,Data Science,B2,Priya,Web,12794,DISC15,,13000,15-02-2024
+S1044,Aditya Joshi,C201,Data Analytics,B3,Amit,Mobile,15816,DISC10,0.1,14000,01-03-2024
+S1045,Kunal Mehta,C203,Full Stack Dev,B1,Saurabh,Tablet,17266,DISC20,0.2,17000,18-01-2024
+S1046,Aditya Joshi,C202,Data Science,B3,Priya,Web,13815,DISC30,0.3,13000,02-02-2024
+S1047,Neha Rao,C201,Data Analytics,B1,Amit,Mobile,15397,DISC30,0.3,14000,03-01-2024
+S1048,Aarav Jain,C202,Data Science,B3,Priya,Web,14036,,,13000,05-02-2024
+S1049,Anjali Verma,C201,Data Analytics,B1,Saurabh,Tablet,15702,DISC20,0.2,14000,04-02-2024
+S1050,Aarav Nair,C203,Full Stack Dev,B3,Amit,Web,16760,DISC20,0.2,17000,03-01-2024
+S1051,Aditya Jain,C201,Data Analytics,B2,Saurabh,Tablet,13022,DISC10,0.1,14000,23-01-2024
+S1052,Dev Gupta,C204,UI UX Design,B3,Amit,Web,10791,DISC20,0.2,9000,25-02-2024
+S1053,Karan Patel,C202,Data Science,B2,Saurabh,Web,14016,DISC30,0.3,13000,20-02-2024
+S1054,Kunal Verma,C202,Data Science,B2,Saurabh,Tablet,11442,,,13000,25-02-2024
+S1055,Aarav Nair,C204,UI UX Design,B1,Saurabh,Mobile,8432,DISC30,0.3,9000,22-02-2024
+S1056,Dev Nair,C202,Data Science,B1,Saurabh,Tablet,11791,,,13000,22-01-2024
+S1057,Aditya Nair,C201,Data Analytics,B2,Priya,Tablet,14086,,,14000,13-02-2024
+S1058,Meera Gupta,C203,Full Stack Dev,B1,Saurabh,Mobile,15731,DISC15,,17000,17-01-2024
+S1059,Aarav Shah,C204,UI UX Design,B2,Amit,Mobile,8787,DISC15,,9000,02-02-2024
+S1060,Riya Verma,C202,Data Science,B2,Saurabh,Tablet,12786,DISC10,0.1,13000,03-02-2024
+S1061,Kunal Patel,C202,Data Science,B2,Priya,Web,14886,DISC30,0.3,13000,09-02-2024
+S1062,Pooja Singh,C201,Data Analytics,B3,Priya,Tablet,13266,,,14000,21-01-2024
+S1063,Rahul Desai,C203,Full Stack Dev,B3,Saurabh,Web,16722,,,17000,13-02-2024
+S1064,Anjali Mehta,C203,Full Stack Dev,B2,Amit,Web,16244,DISC30,0.3,17000,14-01-2024
+S1065,Rahul Patel,C203,Full Stack Dev,B2,Priya,Mobile,17767,DISC20,0.2,17000,02-02-2024
+S1066,Neha Patel,C202,Data Science,B3,Saurabh,Mobile,13111,DISC15,,13000,22-01-2024
+S1067,Riya Nair,C202,Data Science,B3,Priya,Web,14303,DISC20,0.2,13000,10-01-2024
+S1068,Aarav Kulkarni,C202,Data Science,B2,Amit,Web,12865,,,13000,26-02-2024
+S1069,Rohit Joshi,C202,Data Science,B3,Amit,Mobile,13024,,,13000,16-01-2024
+S1070,Karan Singh,C201,Data Analytics,B1,Priya,Web,12720,DISC15,,14000,30-01-2024
+S1071,Aarav Gupta,C202,Data Science,B1,Priya,Web,14282,,,13000,12-02-2024
+S1072,Manish Gupta,C203,Full Stack Dev,B2,Amit,Tablet,18653,DISC15,,17000,28-01-2024
+S1073,Meera Gupta,C204,UI UX Design,B1,Amit,Mobile,8843,DISC30,0.3,9000,18-02-2024
+S1074,Sneha Nair,C203,Full Stack Dev,B3,Priya,Tablet,15979,DISC30,0.3,17000,29-01-2024
+S1075,Riya Desai,C203,Full Stack Dev,B1,Priya,Mobile,16309,DISC15,,17000,06-01-2024
+S1076,Karan Mehta,C202,Data Science,B2,Amit,Web,13893,DISC20,0.2,13000,05-01-2024
+S1077,Rahul Verma,C203,Full Stack Dev,B3,Priya,Mobile,15255,DISC20,0.2,17000,23-02-2024
+S1078,Rahul Verma,C201,Data Analytics,B3,Priya,Mobile,12024,DISC30,0.3,14000,20-01-2024
+S1079,Dev Verma,C204,UI UX Design,B3,Amit,Tablet,9236,DISC15,,9000,27-02-2024
+S1080,Sneha Iyer,C202,Data Science,B2,Priya,Mobile,11118,,,13000,22-01-2024
+S1081,Rohit Singh,C204,UI UX Design,B3,Saurabh,Mobile,10766,DISC20,0.2,9000,09-02-2024
+S1082,Manish Kulkarni,C204,UI UX Design,B3,Amit,Tablet,7111,DISC10,0.1,9000,11-02-2024
+S1083,Rahul Mehta,C204,UI UX Design,B1,Saurabh,Mobile,8552,DISC30,0.3,9000,14-01-2024
+S1084,Neha Jain,C203,Full Stack Dev,B2,Priya,Mobile,16033,DISC10,0.1,17000,31-01-2024
+S1085,Aarav Desai,C201,Data Analytics,B2,Saurabh,Tablet,12281,DISC10,0.1,14000,18-02-2024
+S1086,Aarav Patil,C202,Data Science,B1,Amit,Web,11977,DISC20,0.2,13000,31-01-2024
+S1087,Rohit Shah,C202,Data Science,B2,Amit,Mobile,14141,DISC30,0.3,13000,11-01-2024
+S1088,Kavita Joshi,C201,Data Analytics,B1,Priya,Web,14370,DISC10,0.1,14000,29-02-2024
+S1089,Aditya Joshi,C204,UI UX Design,B2,Amit,Web,7311,DISC15,,9000,14-02-2024
+S1090,Meera Singh,C202,Data Science,B1,Amit,Mobile,14482,DISC15,,13000,21-02-2024
+S1091,Riya Patel,C201,Data Analytics,B2,Amit,Mobile,14709,DISC30,0.3,14000,05-01-2024
+S1092,Manish Singh,C203,Full Stack Dev,B1,Priya,Mobile,15432,,,17000,24-01-2024
+S1093,Rohit Nair,C204,UI UX Design,B3,Saurabh,Mobile,7721,DISC15,,9000,11-02-2024
+S1094,Aditya Joshi,C204,UI UX Design,B2,Priya,Tablet,9426,DISC30,0.3,9000,21-01-2024
+S1095,Meera Patil,C201,Data Analytics,B2,Priya,Web,15073,,,14000,06-02-2024
+S1096,Kavita Singh,C204,UI UX Design,B2,Saurabh,Mobile,10485,DISC30,0.3,9000,12-01-2024
+S1097,Neha Patil,C203,Full Stack Dev,B2,Priya,Mobile,18605,DISC15,,17000,14-02-2024
+S1098,Kunal Rao,C201,Data Analytics,B3,Saurabh,Web,12988,,,14000,01-02-2024
+S1099,Manish Patel,C202,Data Science,B3,Priya,Tablet,13915,,,13000,29-01-2024
+S1100,Dev Kulkarni,C201,Data Analytics,B2,Saurabh,Mobile,14833,DISC20,0.2,14000,20-01-2024
+S1101,Rohit Joshi,C203,Full Stack Dev,B2,Amit,Tablet,16408,,,17000,17-02-2024
+S1102,Manish Jain,C203,Full Stack Dev,B3,Priya,Mobile,16255,DISC30,0.3,17000,15-01-2024
+S1103,Riya Desai,C202,Data Science,B2,Saurabh,Tablet,13194,DISC20,0.2,13000,13-01-2024
+S1104,Sneha Desai,C204,UI UX Design,B2,Amit,Tablet,11000,DISC15,,9000,08-02-2024
+S1105,Aditya Shah,C202,Data Science,B2,Saurabh,Mobile,11734,DISC30,0.3,13000,01-01-2024
+S1106,Anjali Gupta,C202,Data Science,B2,Saurabh,Web,13266,DISC30,0.3,13000,14-02-2024
+S1107,Karan Singh,C204,UI UX Design,B1,Saurabh,Tablet,8164,,,9000,31-01-2024
+S1108,Neha Jain,C202,Data Science,B1,Priya,Mobile,11467,DISC10,0.1,13000,26-01-2024
+S1109,Neha Shah,C201,Data Analytics,B1,Saurabh,Tablet,15887,DISC30,0.3,14000,06-01-2024
+S1110,Sneha Shah,C204,UI UX Design,B3,Amit,Tablet,7924,DISC15,,9000,25-01-2024
+S1111,Neha Iyer,C203,Full Stack Dev,B3,Priya,Mobile,17329,DISC15,,17000,04-01-2024
+S1112,Kavita Desai,C201,Data Analytics,B1,Amit,Web,13083,DISC10,0.1,14000,11-01-2024
+S1113,Sneha Mehta,C201,Data Analytics,B1,Saurabh,Mobile,13845,DISC15,,14000,31-01-2024
+S1114,Aditya Kulkarni,C202,Data Science,B2,Amit,Mobile,13879,,,13000,05-01-2024
+S1115,Rohit Patil,C203,Full Stack Dev,B3,Amit,Tablet,18292,DISC20,0.2,17000,28-01-2024
+S1116,Riya Gupta,C202,Data Science,B3,Saurabh,Mobile,14385,DISC20,0.2,13000,05-01-2024
+S1117,Aarav Mehta,C203,Full Stack Dev,B3,Amit,Tablet,18773,DISC30,0.3,17000,29-01-2024
+S1118,Riya Iyer,C203,Full Stack Dev,B3,Priya,Mobile,17049,DISC15,,17000,01-02-2024
+S1119,Neha Shah,C201,Data Analytics,B2,Amit,Mobile,14472,DISC30,0.3,14000,02-01-2024
+S1120,Riya Patil,C201,Data Analytics,B3,Priya,Tablet,12164,DISC20,0.2,14000,31-01-2024
+S1121,Manish Singh,C204,UI UX Design,B2,Saurabh,Tablet,8785,,,9000,06-01-2024
+S1122,Neha Jain,C204,UI UX Design,B2,Priya,Tablet,7428,DISC20,0.2,9000,22-01-2024
+S1123,Rahul Desai,C204,UI UX Design,B2,Amit,Mobile,10332,DISC15,,9000,03-01-2024
+S1124,Neha Shah,C203,Full Stack Dev,B2,Priya,Web,18973,,,17000,25-02-2024
+S1125,Manish Nair,C201,Data Analytics,B3,Amit,Mobile,13692,DISC10,0.1,14000,13-01-2024
+S1126,Manish Jain,C204,UI UX Design,B3,Priya,Web,7833,DISC30,0.3,9000,05-02-2024
+S1127,Karan Rao,C204,UI UX Design,B3,Priya,Web,7118,DISC15,,9000,21-02-2024
+S1128,Sneha Desai,C202,Data Science,B2,Amit,Web,13262,,,13000,06-01-2024
+S1129,Sneha Nair,C201,Data Analytics,B2,Saurabh,Tablet,15408,DISC20,0.2,14000,01-02-2024
+S1130,Kunal Desai,C203,Full Stack Dev,B3,Amit,Mobile,16701,,,17000,31-01-2024
+S1131,Sneha Iyer,C202,Data Science,B2,Saurabh,Tablet,13081,DISC20,0.2,13000,25-02-2024
+S1132,Riya Rao,C204,UI UX Design,B2,Amit,Mobile,10360,DISC10,0.1,9000,19-01-2024
+S1133,Anjali Rao,C204,UI UX Design,B1,Priya,Tablet,8983,DISC30,0.3,9000,22-01-2024
+S1134,Manish Patel,C204,UI UX Design,B2,Priya,Web,9856,DISC20,0.2,9000,06-02-2024
+S1135,Rahul Patil,C204,UI UX Design,B1,Priya,Tablet,8937,,,9000,25-01-2024
+S1136,Rohit Patel,C202,Data Science,B2,Saurabh,Web,13057,DISC15,,13000,22-01-2024
+S1137,Meera Shah,C204,UI UX Design,B1,Amit,Mobile,7062,DISC20,0.2,9000,27-01-2024
+S1138,Meera Singh,C202,Data Science,B1,Priya,Mobile,12386,DISC15,,13000,14-02-2024
+S1139,Rahul Singh,C201,Data Analytics,B2,Amit,Tablet,13556,DISC30,0.3,14000,10-02-2024
+S1140,Anjali Patel,C204,UI UX Design,B3,Saurabh,Tablet,7280,DISC20,0.2,9000,10-02-2024
+S1141,Rohit Rao,C202,Data Science,B3,Saurabh,Mobile,11403,DISC10,0.1,13000,29-01-2024
+S1142,Karan Desai,C203,Full Stack Dev,B1,Saurabh,Mobile,18261,DISC10,0.1,17000,19-01-2024
+S1143,Pooja Jain,C204,UI UX Design,B1,Saurabh,Tablet,8687,DISC15,,9000,13-02-2024
+S1144,Dev Mehta,C202,Data Science,B1,Saurabh,Tablet,14566,,,13000,09-02-2024
+S1145,Rohit Patil,C204,UI UX Design,B3,Saurabh,Web,8888,DISC30,0.3,9000,30-01-2024
+S1146,Aditya Singh,C201,Data Analytics,B2,Priya,Tablet,14238,DISC20,0.2,14000,05-01-2024
+S1147,Neha Jain,C203,Full Stack Dev,B3,Priya,Tablet,16024,,,17000,24-02-2024
+S1148,Aditya Patil,C204,UI UX Design,B2,Saurabh,Web,8562,DISC15,,9000,23-01-2024
+S1149,Kavita Rao,C203,Full Stack Dev,B1,Amit,Mobile,16124,DISC10,0.1,17000,06-02-2024
+S1150,Meera Singh,C201,Data Analytics,B3,Amit,Mobile,15411,DISC30,0.3,14000,19-02-2024
+S1151,Dev Patil,C203,Full Stack Dev,B1,Amit,Web,17543,DISC30,0.3,17000,13-02-2024
+S1152,Dev Desai,C202,Data Science,B3,Saurabh,Tablet,13647,DISC10,0.1,13000,20-01-2024
+S1153,Dev Iyer,C201,Data Analytics,B3,Priya,Tablet,12538,DISC10,0.1,14000,28-02-2024
+S1154,Aditya Jain,C204,UI UX Design,B1,Saurabh,Web,10221,DISC15,,9000,26-02-2024
+S1155,Pooja Gupta,C203,Full Stack Dev,B1,Priya,Mobile,18962,DISC30,0.3,17000,17-02-2024
+S1156,Meera Jain,C201,Data Analytics,B2,Saurabh,Web,15089,DISC20,0.2,14000,25-02-2024
+S1157,Rohit Desai,C204,UI UX Design,B3,Priya,Web,10238,,,9000,01-01-2024
+S1158,Aditya Gupta,C201,Data Analytics,B2,Priya,Tablet,15067,DISC30,0.3,14000,07-02-2024
+S1159,Rahul Nair,C203,Full Stack Dev,B1,Amit,Web,16931,DISC10,0.1,17000,09-02-2024
+S1160,Kunal Gupta,C203,Full Stack Dev,B3,Saurabh,Tablet,15258,,,17000,28-02-2024
+S1161,Anjali Rao,C204,UI UX Design,B1,Saurabh,Web,10875,DISC10,0.1,9000,20-01-2024
+S1162,Neha Shah,C201,Data Analytics,B1,Amit,Web,13591,,,14000,24-01-2024
+S1163,Rohit Desai,C204,UI UX Design,B3,Amit,Tablet,7632,,,9000,11-02-2024
+S1164,Riya Nair,C204,UI UX Design,B3,Priya,Mobile,7134,DISC30,0.3,9000,14-01-2024
+S1165,Neha Iyer,C202,Data Science,B2,Saurabh,Tablet,12504,DISC15,,13000,27-02-2024
+S1166,Rohit Jain,C201,Data Analytics,B2,Priya,Web,15965,DISC10,0.1,14000,01-03-2024
+S1167,Meera Nair,C204,UI UX Design,B1,Amit,Web,9628,DISC15,,9000,02-01-2024
+S1168,Aarav Patel,C203,Full Stack Dev,B1,Saurabh,Tablet,15840,DISC10,0.1,17000,23-02-2024
+S1169,Dev Gupta,C202,Data Science,B3,Saurabh,Web,12345,DISC20,0.2,13000,20-02-2024
+S1170,Kunal Joshi,C201,Data Analytics,B2,Saurabh,Web,14212,DISC30,0.3,14000,21-02-2024
+S1171,Karan Shah,C201,Data Analytics,B1,Saurabh,Mobile,15235,DISC20,0.2,14000,07-02-2024
+S1172,Pooja Kulkarni,C202,Data Science,B2,Saurabh,Web,14038,,,13000,03-02-2024
+S1173,Riya Desai,C201,Data Analytics,B2,Priya,Mobile,14102,DISC15,,14000,07-01-2024
+S1174,Neha Gupta,C202,Data Science,B3,Saurabh,Tablet,14208,DISC15,,13000,20-01-2024
+S1175,Neha Singh,C201,Data Analytics,B1,Priya,Mobile,13746,DISC10,0.1,14000,01-02-2024
+S1176,Anjali Iyer,C201,Data Analytics,B1,Priya,Tablet,12607,DISC10,0.1,14000,09-01-2024
+S1177,Aditya Joshi,C203,Full Stack Dev,B2,Amit,Tablet,16207,,,17000,02-02-2024
+S1178,Kavita Verma,C201,Data Analytics,B3,Saurabh,Tablet,14666,DISC15,,14000,16-02-2024
+S1179,Meera Patil,C204,UI UX Design,B2,Saurabh,Mobile,8388,,,9000,26-01-2024
+S1180,Rahul Desai,C201,Data Analytics,B2,Priya,Mobile,14724,DISC30,0.3,14000,24-01-2024
+S1181,Karan Singh,C204,UI UX Design,B1,Saurabh,Web,7381,,,9000,07-01-2024
+S1182,Anjali Desai,C203,Full Stack Dev,B1,Amit,Web,17402,DISC15,,17000,05-02-2024
+S1183,Pooja Singh,C201,Data Analytics,B2,Priya,Tablet,15854,,,14000,25-02-2024
+S1184,Kunal Desai,C201,Data Analytics,B2,Amit,Mobile,13440,DISC10,0.1,14000,06-02-2024
+S1185,Manish Patil,C202,Data Science,B3,Priya,Web,14470,DISC10,0.1,13000,23-01-2024
+S1186,Meera Gupta,C203,Full Stack Dev,B1,Priya,Tablet,15926,,,17000,24-02-2024
+S1187,Manish Patel,C201,Data Analytics,B3,Amit,Tablet,13095,DISC10,0.1,14000,12-01-2024
+S1188,Aditya Desai,C203,Full Stack Dev,B2,Priya,Web,15743,DISC20,0.2,17000,06-02-2024
+S1189,Rohit Verma,C201,Data Analytics,B1,Amit,Tablet,15980,DISC10,0.1,14000,06-01-2024
+S1190,Anjali Gupta,C202,Data Science,B2,Priya,Mobile,12396,DISC20,0.2,13000,24-01-2024
+S1191,Aditya Desai,C203,Full Stack Dev,B3,Amit,Web,18618,DISC10,0.1,17000,10-01-2024
+S1192,Karan Patel,C201,Data Analytics,B3,Saurabh,Mobile,13814,,,14000,01-02-2024
+S1193,Kavita Iyer,C204,UI UX Design,B2,Saurabh,Tablet,7466,DISC30,0.3,9000,28-01-2024
+S1194,Riya Rao,C204,UI UX Design,B3,Amit,Mobile,7186,DISC20,0.2,9000,26-01-2024
+S1195,Kavita Kulkarni,C201,Data Analytics,B1,Priya,Web,15143,DISC20,0.2,14000,18-02-2024
+S1196,Aditya Rao,C203,Full Stack Dev,B1,Saurabh,Mobile,18059,,,17000,12-01-2024
+S1197,Karan Verma,C202,Data Science,B3,Amit,Tablet,14302,DISC30,0.3,13000,05-01-2024
+S1198,Rahul Nair,C201,Data Analytics,B2,Saurabh,Mobile,15773,DISC10,0.1,14000,25-02-2024
+S1199,Pooja Joshi,C204,UI UX Design,B3,Priya,Tablet,9622,,,9000,19-01-2024
+S1200,Riya Verma,C201,Data Analytics,B2,Saurabh,Tablet,13884,DISC30,0.3,14000,06-01-2024
+S1201,Rahul Nair,C201,Data Analytics,B1,Priya,Tablet,13640,DISC15,,14000,06-01-2024
+S1202,Rahul Nair,C203,Full Stack Dev,B3,Priya,Web,16364,DISC20,0.2,17000,05-01-2024
+S1203,Manish Singh,C201,Data Analytics,B3,Amit,Web,15710,DISC30,0.3,14000,23-01-2024
+S1204,Anjali Nair,C202,Data Science,B1,Saurabh,Web,12048,DISC20,0.2,13000,12-01-2024
+S1205,Kavita Mehta,C201,Data Analytics,B1,Amit,Mobile,13900,DISC15,,14000,18-02-2024
+S1206,Kavita Iyer,C203,Full Stack Dev,B3,Priya,Web,16801,DISC10,0.1,17000,31-01-2024
+S1207,Neha Singh,C203,Full Stack Dev,B2,Amit,Web,16441,DISC15,,17000,05-01-2024
+S1208,Aditya Iyer,C204,UI UX Design,B1,Saurabh,Mobile,10406,DISC30,0.3,9000,05-01-2024
+S1209,Rohit Nair,C201,Data Analytics,B3,Amit,Tablet,13574,,,14000,07-02-2024
+S1210,Manish Patel,C201,Data Analytics,B2,Amit,Tablet,12771,DISC30,0.3,14000,08-02-2024
+S1211,Neha Gupta,C202,Data Science,B1,Priya,Web,14321,DISC30,0.3,13000,15-02-2024
+S1212,Riya Gupta,C202,Data Science,B1,Saurabh,Tablet,12793,,,13000,03-02-2024
+S1213,Manish Joshi,C202,Data Science,B2,Priya,Mobile,12586,,,13000,19-02-2024
+S1214,Pooja Singh,C201,Data Analytics,B3,Amit,Mobile,12269,DISC30,0.3,14000,07-01-2024
+S1215,Manish Singh,C204,UI UX Design,B2,Priya,Tablet,10488,DISC15,,9000,25-02-2024
+S1216,Karan Jain,C201,Data Analytics,B3,Amit,Web,15754,DISC30,0.3,14000,20-01-2024
+S1217,Rohit Desai,C204,UI UX Design,B1,Amit,Tablet,10842,DISC10,0.1,9000,20-01-2024
+S1218,Manish Verma,C203,Full Stack Dev,B1,Amit,Tablet,18395,DISC15,,17000,06-01-2024
+S1219,Rohit Singh,C204,UI UX Design,B3,Priya,Web,8485,DISC30,0.3,9000,12-01-2024
+S1220,Sneha Jain,C204,UI UX Design,B1,Saurabh,Web,7634,DISC10,0.1,9000,19-01-2024
+S1221,Meera Patel,C201,Data Analytics,B3,Amit,Tablet,15619,DISC15,,14000,03-01-2024
+S1222,Rohit Jain,C202,Data Science,B3,Priya,Web,11664,DISC20,0.2,13000,23-02-2024
+S1223,Anjali Patel,C202,Data Science,B3,Priya,Web,12682,DISC30,0.3,13000,13-02-2024
+S1224,Anjali Patil,C204,UI UX Design,B3,Priya,Tablet,10210,,,9000,15-01-2024
+S1225,Manish Patil,C203,Full Stack Dev,B2,Saurabh,Mobile,17778,DISC15,,17000,29-01-2024
+S1226,Neha Patel,C203,Full Stack Dev,B2,Amit,Tablet,16714,DISC20,0.2,17000,22-02-2024
+S1227,Sneha Patel,C202,Data Science,B2,Saurabh,Tablet,12968,DISC30,0.3,13000,05-02-2024
+S1228,Kunal Shah,C201,Data Analytics,B2,Saurabh,Web,13117,,,14000,27-02-2024
+S1229,Manish Mehta,C204,UI UX Design,B1,Saurabh,Mobile,10623,DISC30,0.3,9000,29-02-2024
+S1230,Aarav Verma,C201,Data Analytics,B2,Amit,Mobile,12965,,,14000,06-01-2024
+S1231,Pooja Patil,C201,Data Analytics,B2,Saurabh,Tablet,14662,DISC30,0.3,14000,20-02-2024
+S1232,Karan Mehta,C201,Data Analytics,B2,Priya,Tablet,15404,DISC20,0.2,14000,18-02-2024
+S1233,Anjali Iyer,C204,UI UX Design,B3,Saurabh,Web,7077,DISC30,0.3,9000,14-01-2024
+S1234,Meera Mehta,C204,UI UX Design,B1,Priya,Web,8233,DISC10,0.1,9000,04-01-2024
+S1235,Sneha Verma,C204,UI UX Design,B1,Saurabh,Mobile,9444,DISC15,,9000,02-01-2024
+S1236,Rohit Gupta,C202,Data Science,B3,Saurabh,Mobile,12758,DISC10,0.1,13000,09-02-2024
+S1237,Pooja Patil,C204,UI UX Design,B1,Amit,Tablet,7350,DISC15,,9000,24-01-2024
+S1238,Riya Gupta,C201,Data Analytics,B2,Priya,Web,14603,,,14000,24-01-2024
+S1239,Aditya Desai,C201,Data Analytics,B2,Saurabh,Mobile,12987,DISC10,0.1,14000,19-02-2024
+S1240,Kavita Desai,C203,Full Stack Dev,B1,Saurabh,Mobile,17236,DISC30,0.3,17000,22-02-2024
+S1241,Rohit Mehta,C204,UI UX Design,B3,Priya,Tablet,7746,DISC20,0.2,9000,05-01-2024
+S1242,Anjali Patel,C204,UI UX Design,B1,Priya,Web,7179,DISC20,0.2,9000,26-02-2024
+S1243,Aarav Jain,C203,Full Stack Dev,B3,Priya,Tablet,16939,DISC30,0.3,17000,03-01-2024
+S1244,Dev Singh,C202,Data Science,B2,Priya,Web,14546,DISC30,0.3,13000,18-01-2024
+S1245,Riya Patel,C203,Full Stack Dev,B2,Priya,Tablet,16801,,,17000,22-01-2024
+S1246,Karan Iyer,C204,UI UX Design,B2,Amit,Mobile,10281,DISC10,0.1,9000,16-02-2024
+S1247,Rahul Shah,C204,UI UX Design,B3,Saurabh,Tablet,8203,DISC30,0.3,9000,07-01-2024
+S1248,Riya Jain,C203,Full Stack Dev,B2,Priya,Tablet,17939,,,17000,11-01-2024
+S1249,Anjali Iyer,C203,Full Stack Dev,B2,Saurabh,Tablet,18563,DISC30,0.3,17000,09-02-2024
+S1250,Rahul Rao,C201,Data Analytics,B1,Amit,Tablet,13663,DISC30,0.3,14000,02-02-2024
+S1251,Dev Desai,C202,Data Science,B1,Saurabh,Tablet,13777,,,13000,03-01-2024
+S1252,Karan Shah,C202,Data Science,B3,Priya,Mobile,12568,DISC15,,13000,03-01-2024
+S1253,Kavita Mehta,C204,UI UX Design,B2,Priya,Mobile,10125,DISC10,0.1,9000,06-02-2024
+S1254,Karan Gupta,C203,Full Stack Dev,B2,Priya,Tablet,16141,DISC20,0.2,17000,08-01-2024
+S1255,Aarav Desai,C202,Data Science,B2,Amit,Mobile,14741,DISC15,,13000,08-01-2024
+S1256,Aditya Patel,C203,Full Stack Dev,B3,Priya,Web,17506,DISC30,0.3,17000,14-02-2024
+S1257,Kunal Iyer,C202,Data Science,B1,Saurabh,Web,12851,DISC20,0.2,13000,27-02-2024
+S1258,Anjali Iyer,C201,Data Analytics,B3,Priya,Tablet,13423,DISC10,0.1,14000,05-02-2024
+S1259,Manish Rao,C203,Full Stack Dev,B1,Amit,Tablet,18798,DISC20,0.2,17000,20-02-2024
+S1260,Pooja Gupta,C202,Data Science,B1,Saurabh,Web,11969,,,13000,02-01-2024
+S1261,Pooja Gupta,C203,Full Stack Dev,B2,Amit,Web,17506,DISC10,0.1,17000,05-01-2024
+S1262,Aditya Verma,C204,UI UX Design,B3,Priya,Mobile,10372,DISC15,,9000,05-01-2024
+S1263,Karan Jain,C201,Data Analytics,B2,Priya,Tablet,14119,DISC30,0.3,14000,09-01-2024
+S1264,Kunal Nair,C202,Data Science,B1,Priya,Tablet,14730,DISC10,0.1,13000,23-02-2024
+S1265,Riya Gupta,C202,Data Science,B2,Saurabh,Web,12321,DISC20,0.2,13000,23-01-2024
+S1266,Manish Rao,C201,Data Analytics,B2,Saurabh,Tablet,15917,DISC15,,14000,18-01-2024
+S1267,Karan Singh,C203,Full Stack Dev,B3,Amit,Web,17058,DISC20,0.2,17000,07-02-2024
+S1268,Kavita Mehta,C202,Data Science,B3,Amit,Tablet,14694,DISC15,,13000,22-01-2024
+S1269,Meera Joshi,C201,Data Analytics,B1,Saurabh,Web,15885,DISC15,,14000,17-01-2024
+S1270,Rohit Patil,C204,UI UX Design,B3,Amit,Web,9039,DISC15,,9000,19-01-2024
+S1271,Rohit Rao,C204,UI UX Design,B1,Amit,Mobile,8218,,,9000,05-01-2024
+S1272,Anjali Kulkarni,C202,Data Science,B2,Priya,Mobile,12902,DISC20,0.2,13000,22-01-2024
+S1273,Kavita Mehta,C203,Full Stack Dev,B3,Priya,Tablet,18525,DISC30,0.3,17000,26-01-2024
+S1274,Karan Patel,C203,Full Stack Dev,B3,Amit,Web,16307,DISC20,0.2,17000,30-01-2024
+S1275,Riya Rao,C204,UI UX Design,B1,Saurabh,Web,7207,DISC30,0.3,9000,01-03-2024
+S1276,Rahul Nair,C204,UI UX Design,B1,Saurabh,Mobile,10824,DISC15,,9000,16-02-2024
+S1277,Pooja Patil,C202,Data Science,B2,Amit,Mobile,13042,DISC30,0.3,13000,01-02-2024
+S1278,Aarav Shah,C204,UI UX Design,B3,Priya,Web,7881,DISC15,,9000,23-01-2024
+S1279,Aarav Kulkarni,C203,Full Stack Dev,B2,Amit,Tablet,17754,,,17000,19-01-2024
+S1280,Manish Kulkarni,C201,Data Analytics,B2,Saurabh,Mobile,14979,DISC30,0.3,14000,18-02-2024
+S1281,Rahul Jain,C201,Data Analytics,B2,Saurabh,Tablet,14301,DISC20,0.2,14000,24-01-2024
+S1282,Manish Rao,C201,Data Analytics,B2,Amit,Mobile,15130,DISC15,,14000,18-01-2024
+S1283,Meera Joshi,C201,Data Analytics,B1,Saurabh,Mobile,13528,DISC30,0.3,14000,05-02-2024
+S1284,Pooja Patel,C202,Data Science,B1,Amit,Tablet,12644,DISC15,,13000,03-01-2024
+S1285,Aarav Kulkarni,C202,Data Science,B3,Priya,Mobile,13127,,,13000,10-01-2024
+S1286,Kavita Gupta,C202,Data Science,B2,Amit,Mobile,11665,,,13000,09-02-2024
+S1287,Anjali Nair,C203,Full Stack Dev,B3,Priya,Tablet,18392,DISC15,,17000,04-02-2024
+S1288,Neha Desai,C203,Full Stack Dev,B2,Saurabh,Mobile,16356,DISC10,0.1,17000,27-01-2024
+S1289,Kavita Rao,C201,Data Analytics,B3,Priya,Mobile,15961,DISC15,,14000,06-02-2024
+S1290,Sneha Desai,C201,Data Analytics,B3,Priya,Web,14147,DISC15,,14000,19-02-2024
+S1291,Meera Verma,C202,Data Science,B3,Saurabh,Web,13345,DISC10,0.1,13000,13-01-2024
+S1292,Aarav Iyer,C203,Full Stack Dev,B2,Saurabh,Mobile,17828,DISC20,0.2,17000,27-01-2024
+S1293,Manish Patel,C204,UI UX Design,B3,Amit,Web,9890,DISC20,0.2,9000,03-02-2024
+S1294,Sneha Gupta,C203,Full Stack Dev,B3,Priya,Tablet,16543,DISC30,0.3,17000,12-01-2024
+S1295,Neha Gupta,C203,Full Stack Dev,B3,Priya,Tablet,18162,DISC30,0.3,17000,09-02-2024
+S1296,Neha Patil,C202,Data Science,B2,Amit,Mobile,11921,DISC30,0.3,13000,19-02-2024
+S1297,Aditya Desai,C202,Data Science,B3,Amit,Mobile,12298,,,13000,23-01-2024
+S1298,Manish Patel,C203,Full Stack Dev,B2,Saurabh,Tablet,17771,DISC15,,17000,25-01-2024
+S1299,Kunal Verma,C203,Full Stack Dev,B1,Priya,Web,16178,DISC10,0.1,17000,23-01-2024
+S1300,Kunal Iyer,C203,Full Stack Dev,B3,Priya,Web,15827,DISC15,,17000,18-01-2024
+S1301,Kunal Gupta,C203,Full Stack Dev,B1,Saurabh,Tablet,18034,DISC15,,17000,16-01-2024
+S1302,Sneha Kulkarni,C202,Data Science,B3,Saurabh,Web,11410,,,13000,22-01-2024
+S1303,Anjali Iyer,C201,Data Analytics,B3,Saurabh,Web,15950,DISC15,,14000,29-02-2024
+S1304,Karan Verma,C204,UI UX Design,B2,Amit,Web,10096,DISC30,0.3,9000,21-01-2024
+S1305,Aditya Singh,C201,Data Analytics,B1,Amit,Tablet,12951,DISC15,,14000,17-02-2024
+S1306,Anjali Nair,C201,Data Analytics,B1,Priya,Web,15825,DISC10,0.1,14000,23-02-2024
+S1307,Rahul Patel,C204,UI UX Design,B1,Amit,Mobile,10591,DISC10,0.1,9000,01-01-2024
+S1308,Aditya Joshi,C201,Data Analytics,B2,Priya,Mobile,14626,DISC15,,14000,03-02-2024
+S1309,Neha Mehta,C204,UI UX Design,B2,Saurabh,Web,8354,DISC20,0.2,9000,16-02-2024
+S1310,Neha Singh,C203,Full Stack Dev,B3,Saurabh,Web,18017,DISC30,0.3,17000,20-02-2024
+S1311,Aditya Joshi,C202,Data Science,B1,Amit,Tablet,14674,,,13000,22-02-2024
+S1312,Rahul Gupta,C203,Full Stack Dev,B1,Priya,Tablet,15390,DISC20,0.2,17000,09-01-2024
+S1313,Neha Jain,C202,Data Science,B1,Priya,Mobile,11964,,,13000,18-02-2024
+S1314,Aditya Jain,C203,Full Stack Dev,B3,Amit,Tablet,15046,DISC30,0.3,17000,11-02-2024
+S1315,Pooja Desai,C202,Data Science,B1,Amit,Web,12906,DISC30,0.3,13000,11-01-2024
+S1316,Rahul Singh,C203,Full Stack Dev,B3,Saurabh,Tablet,18752,DISC30,0.3,17000,24-01-2024
+S1317,Kavita Patil,C202,Data Science,B1,Priya,Web,12863,DISC15,,13000,24-01-2024
+S1318,Rahul Desai,C204,UI UX Design,B3,Amit,Web,10120,DISC20,0.2,9000,13-02-2024
+S1319,Dev Joshi,C201,Data Analytics,B3,Priya,Tablet,14882,DISC30,0.3,14000,05-01-2024
+S1320,Kunal Joshi,C201,Data Analytics,B1,Amit,Tablet,12828,DISC15,,14000,04-02-2024
+S1321,Karan Mehta,C203,Full Stack Dev,B3,Priya,Web,17786,DISC20,0.2,17000,15-02-2024
+S1322,Kavita Iyer,C201,Data Analytics,B3,Priya,Web,13857,DISC20,0.2,14000,02-02-2024
+S1323,Rahul Iyer,C201,Data Analytics,B3,Priya,Tablet,15305,DISC30,0.3,14000,16-02-2024
+S1324,Aarav Verma,C203,Full Stack Dev,B1,Amit,Web,17368,DISC10,0.1,17000,03-01-2024
+S1325,Rahul Jain,C201,Data Analytics,B3,Saurabh,Web,15824,,,14000,03-01-2024
+S1326,Aditya Verma,C202,Data Science,B1,Amit,Tablet,13645,,,13000,24-01-2024
+S1327,Kunal Verma,C204,UI UX Design,B2,Priya,Web,9796,DISC15,,9000,09-01-2024
+S1328,Rohit Nair,C203,Full Stack Dev,B1,Saurabh,Tablet,16609,DISC15,,17000,09-01-2024
+S1329,Anjali Patil,C201,Data Analytics,B1,Priya,Mobile,14758,DISC15,,14000,28-01-2024
+S1330,Manish Verma,C202,Data Science,B1,Priya,Mobile,11635,DISC30,0.3,13000,13-01-2024
+S1331,Kunal Desai,C201,Data Analytics,B1,Amit,Mobile,14518,DISC10,0.1,14000,16-01-2024
+S1332,Sneha Shah,C201,Data Analytics,B3,Saurabh,Mobile,14448,DISC10,0.1,14000,16-01-2024
+S1333,Anjali Kulkarni,C204,UI UX Design,B2,Saurabh,Tablet,7889,DISC10,0.1,9000,09-01-2024
+S1334,Manish Rao,C202,Data Science,B3,Amit,Mobile,13365,DISC15,,13000,19-02-2024
+S1335,Rohit Nair,C203,Full Stack Dev,B1,Priya,Web,17704,DISC15,,17000,15-01-2024
+S1336,Rahul Rao,C203,Full Stack Dev,B1,Amit,Tablet,18603,DISC20,0.2,17000,10-02-2024
+S1337,Rohit Verma,C204,UI UX Design,B1,Priya,Tablet,9749,,,9000,20-02-2024
+S1338,Manish Jain,C204,UI UX Design,B2,Saurabh,Mobile,8541,DISC20,0.2,9000,18-02-2024
+S1339,Manish Iyer,C202,Data Science,B1,Priya,Tablet,11591,,,13000,28-02-2024
+S1340,Aarav Gupta,C204,UI UX Design,B2,Amit,Tablet,7549,,,9000,16-01-2024
+S1341,Aditya Patil,C203,Full Stack Dev,B3,Saurabh,Mobile,18469,DISC30,0.3,17000,06-01-2024
+S1342,Manish Desai,C202,Data Science,B1,Priya,Mobile,13759,DISC15,,13000,08-02-2024
+S1343,Aarav Nair,C201,Data Analytics,B1,Amit,Tablet,14750,DISC15,,14000,14-01-2024
+S1344,Neha Patil,C203,Full Stack Dev,B2,Saurabh,Web,18838,DISC20,0.2,17000,17-02-2024
+S1345,Riya Desai,C204,UI UX Design,B1,Amit,Tablet,9882,DISC20,0.2,9000,26-01-2024
+S1346,Kunal Patil,C203,Full Stack Dev,B2,Priya,Mobile,17185,DISC30,0.3,17000,20-01-2024
+S1347,Aditya Jain,C204,UI UX Design,B2,Saurabh,Tablet,8923,DISC30,0.3,9000,28-02-2024
+S1348,Sneha Jain,C203,Full Stack Dev,B2,Saurabh,Tablet,18539,DISC20,0.2,17000,17-02-2024
+S1349,Karan Kulkarni,C203,Full Stack Dev,B3,Amit,Tablet,17949,,,17000,19-01-2024
+S1350,Karan Patil,C203,Full Stack Dev,B1,Priya,Tablet,18413,DISC20,0.2,17000,01-02-2024
+S1351,Manish Singh,C203,Full Stack Dev,B2,Priya,Tablet,17628,,,17000,30-01-2024
+S1352,Karan Desai,C203,Full Stack Dev,B1,Saurabh,Tablet,17238,,,17000,12-01-2024
+S1353,Kunal Gupta,C201,Data Analytics,B3,Saurabh,Web,15871,DISC10,0.1,14000,18-02-2024
+S1354,Aarav Verma,C202,Data Science,B3,Saurabh,Web,13896,DISC20,0.2,13000,01-01-2024
+S1355,Sneha Gupta,C204,UI UX Design,B2,Saurabh,Tablet,9612,DISC15,,9000,28-02-2024
+S1356,Neha Singh,C204,UI UX Design,B1,Saurabh,Tablet,9259,,,9000,01-01-2024
+S1357,Aarav Gupta,C203,Full Stack Dev,B3,Priya,Web,17057,,,17000,21-02-2024
+S1358,Kunal Mehta,C201,Data Analytics,B1,Amit,Web,12987,DISC20,0.2,14000,09-02-2024
+S1359,Manish Rao,C203,Full Stack Dev,B2,Priya,Web,16528,,,17000,30-01-2024
+S1360,Kavita Patil,C202,Data Science,B2,Amit,Web,13677,DISC10,0.1,13000,06-01-2024
+S1361,Rahul Verma,C204,UI UX Design,B3,Priya,Web,9608,DISC10,0.1,9000,14-02-2024
+S1362,Karan Shah,C204,UI UX Design,B2,Amit,Mobile,9317,DISC10,0.1,9000,27-02-2024
+S1363,Manish Kulkarni,C202,Data Science,B1,Amit,Tablet,12947,DISC30,0.3,13000,03-01-2024
+S1364,Kunal Shah,C203,Full Stack Dev,B3,Amit,Tablet,15134,DISC20,0.2,17000,29-02-2024
+S1365,Meera Jain,C201,Data Analytics,B1,Amit,Web,15081,,,14000,29-02-2024
+S1366,Riya Rao,C202,Data Science,B3,Saurabh,Tablet,14418,,,13000,13-02-2024
+S1367,Kunal Gupta,C203,Full Stack Dev,B2,Amit,Web,18237,DISC10,0.1,17000,02-02-2024
+S1368,Anjali Jain,C201,Data Analytics,B1,Priya,Web,15435,DISC10,0.1,14000,22-01-2024
+S1369,Kavita Patel,C204,UI UX Design,B2,Saurabh,Tablet,8119,,,9000,01-02-2024
+S1370,Sneha Jain,C204,UI UX Design,B2,Saurabh,Tablet,9399,,,9000,06-01-2024
+S1371,Dev Joshi,C203,Full Stack Dev,B1,Amit,Web,15336,DISC30,0.3,17000,10-01-2024
+S1372,Rahul Desai,C202,Data Science,B3,Priya,Mobile,12477,DISC10,0.1,13000,06-01-2024
+S1373,Aarav Rao,C204,UI UX Design,B2,Priya,Web,7542,DISC10,0.1,9000,12-01-2024
+S1374,Rahul Iyer,C204,UI UX Design,B1,Saurabh,Web,8449,DISC15,,9000,06-01-2024
+S1375,Kavita Joshi,C203,Full Stack Dev,B2,Saurabh,Mobile,16694,,,17000,19-02-2024
+S1376,Riya Desai,C202,Data Science,B3,Amit,Web,13807,,,13000,11-01-2024
+S1377,Karan Rao,C203,Full Stack Dev,B2,Priya,Web,15259,DISC20,0.2,17000,28-01-2024
+S1378,Aditya Verma,C203,Full Stack Dev,B2,Saurabh,Mobile,16030,DISC20,0.2,17000,16-02-2024
+S1379,Rohit Iyer,C202,Data Science,B2,Saurabh,Web,12247,DISC10,0.1,13000,01-03-2024
+S1380,Rahul Jain,C204,UI UX Design,B2,Priya,Mobile,8763,DISC15,,9000,09-01-2024
+S1381,Aditya Jain,C202,Data Science,B2,Priya,Web,14950,,,13000,21-01-2024
+S1382,Aditya Desai,C204,UI UX Design,B3,Saurabh,Mobile,8540,DISC30,0.3,9000,22-02-2024
+S1383,Dev Verma,C203,Full Stack Dev,B1,Amit,Web,17425,DISC15,,17000,12-01-2024
+S1384,Rohit Patel,C201,Data Analytics,B3,Priya,Tablet,12858,,,14000,21-02-2024
+S1385,Aditya Nair,C201,Data Analytics,B2,Amit,Mobile,12570,DISC30,0.3,14000,16-01-2024
+S1386,Aditya Singh,C202,Data Science,B3,Priya,Mobile,11302,,,13000,08-02-2024
+S1387,Neha Joshi,C204,UI UX Design,B3,Amit,Tablet,8713,DISC15,,9000,03-01-2024
+S1388,Dev Jain,C201,Data Analytics,B1,Saurabh,Tablet,14722,DISC30,0.3,14000,11-01-2024
+S1389,Rohit Joshi,C201,Data Analytics,B3,Amit,Tablet,14649,,,14000,18-02-2024
+S1390,Pooja Patel,C204,UI UX Design,B1,Saurabh,Web,8059,DISC20,0.2,9000,02-02-2024
+S1391,Anjali Gupta,C202,Data Science,B2,Priya,Mobile,12896,DISC15,,13000,14-02-2024
+S1392,Manish Mehta,C203,Full Stack Dev,B1,Priya,Web,16210,,,17000,28-02-2024
+S1393,Riya Shah,C202,Data Science,B2,Priya,Mobile,12865,DISC20,0.2,13000,03-02-2024
+S1394,Neha Jain,C204,UI UX Design,B1,Priya,Tablet,9853,,,9000,21-01-2024
+S1395,Riya Rao,C201,Data Analytics,B3,Saurabh,Web,15478,DISC30,0.3,14000,11-02-2024
+S1396,Riya Singh,C202,Data Science,B3,Saurabh,Tablet,11714,DISC15,,13000,11-01-2024
+S1397,Pooja Gupta,C204,UI UX Design,B2,Saurabh,Mobile,9579,DISC20,0.2,9000,12-01-2024
+S1398,Rohit Singh,C204,UI UX Design,B2,Saurabh,Tablet,9515,DISC20,0.2,9000,29-01-2024
+S1399,Kavita Verma,C204,UI UX Design,B1,Amit,Web,7842,DISC30,0.3,9000,18-02-2024
+S1400,Anjali Patel,C201,Data Analytics,B3,Saurabh,Tablet,12765,DISC30,0.3,14000,21-01-2024
+S1401,Sneha Iyer,C201,Data Analytics,B2,Amit,Mobile,14161,DISC30,0.3,14000,08-02-2024
+S1402,Rahul Joshi,C204,UI UX Design,B3,Saurabh,Mobile,8441,,,9000,09-02-2024
+S1403,Karan Nair,C203,Full Stack Dev,B3,Amit,Web,17752,DISC20,0.2,17000,21-01-2024
+S1404,Riya Patil,C203,Full Stack Dev,B1,Saurabh,Mobile,17840,DISC20,0.2,17000,02-02-2024
+S1405,Rahul Verma,C202,Data Science,B3,Priya,Mobile,11760,,,13000,10-02-2024
+S1406,Manish Desai,C202,Data Science,B3,Saurabh,Mobile,12183,DISC20,0.2,13000,12-01-2024
+S1407,Pooja Nair,C204,UI UX Design,B3,Saurabh,Mobile,10898,DISC10,0.1,9000,01-02-2024
+S1408,Karan Patil,C204,UI UX Design,B3,Amit,Tablet,9027,,,9000,13-02-2024
+S1409,Neha Verma,C204,UI UX Design,B2,Saurabh,Web,9315,DISC10,0.1,9000,20-02-2024
+S1410,Dev Patil,C203,Full Stack Dev,B1,Priya,Web,17202,DISC30,0.3,17000,11-01-2024
+S1411,Dev Iyer,C204,UI UX Design,B3,Amit,Web,9345,DISC10,0.1,9000,18-01-2024
+S1412,Dev Gupta,C203,Full Stack Dev,B3,Saurabh,Tablet,16807,DISC15,,17000,14-01-2024
+S1413,Rahul Shah,C202,Data Science,B2,Saurabh,Mobile,12076,DISC30,0.3,13000,25-02-2024
+S1414,Meera Shah,C204,UI UX Design,B1,Saurabh,Web,10320,DISC15,,9000,14-02-2024
+S1415,Pooja Nair,C204,UI UX Design,B1,Amit,Web,10214,DISC20,0.2,9000,22-02-2024
+S1416,Sneha Patel,C201,Data Analytics,B3,Priya,Tablet,13151,DISC15,,14000,04-02-2024
+S1417,Karan Jain,C203,Full Stack Dev,B2,Amit,Mobile,18901,DISC15,,17000,27-02-2024
+S1418,Rohit Nair,C201,Data Analytics,B1,Priya,Web,13135,DISC20,0.2,14000,14-02-2024
+S1419,Meera Mehta,C202,Data Science,B1,Amit,Mobile,14393,DISC20,0.2,13000,18-02-2024
+S1420,Meera Singh,C204,UI UX Design,B2,Saurabh,Tablet,9590,DISC30,0.3,9000,10-02-2024
+S1421,Rahul Verma,C204,UI UX Design,B1,Amit,Web,8650,DISC15,,9000,17-02-2024
+S1422,Aditya Desai,C203,Full Stack Dev,B2,Priya,Mobile,17383,DISC10,0.1,17000,25-02-2024
+S1423,Dev Nair,C201,Data Analytics,B3,Priya,Tablet,14720,DISC30,0.3,14000,24-02-2024
+S1424,Riya Patel,C204,UI UX Design,B1,Priya,Web,9026,DISC30,0.3,9000,21-01-2024
+S1425,Meera Rao,C203,Full Stack Dev,B3,Amit,Web,17318,,,17000,20-02-2024
+S1426,Pooja Singh,C201,Data Analytics,B1,Saurabh,Tablet,15210,,,14000,02-01-2024
+S1427,Riya Nair,C202,Data Science,B2,Priya,Web,14924,,,13000,13-01-2024
+S1428,Anjali Mehta,C203,Full Stack Dev,B1,Priya,Web,17681,DISC30,0.3,17000,17-01-2024
+S1429,Riya Jain,C202,Data Science,B1,Priya,Tablet,12251,DISC20,0.2,13000,28-01-2024
+S1430,Rohit Shah,C201,Data Analytics,B1,Saurabh,Mobile,12319,DISC20,0.2,14000,07-02-2024
+S1431,Sneha Gupta,C204,UI UX Design,B1,Saurabh,Tablet,8407,DISC10,0.1,9000,25-02-2024
+S1432,Rahul Desai,C202,Data Science,B2,Saurabh,Web,12569,DISC10,0.1,13000,16-02-2024
+S1433,Dev Shah,C201,Data Analytics,B2,Priya,Mobile,12561,,,14000,19-02-2024
+S1434,Meera Patel,C202,Data Science,B3,Amit,Web,11280,DISC15,,13000,06-02-2024
+S1435,Aarav Joshi,C202,Data Science,B2,Priya,Tablet,11872,DISC20,0.2,13000,28-02-2024
+S1436,Rahul Joshi,C204,UI UX Design,B1,Saurabh,Web,7573,DISC10,0.1,9000,07-02-2024
+S1437,Anjali Verma,C203,Full Stack Dev,B2,Priya,Web,16014,DISC30,0.3,17000,11-02-2024
+S1438,Riya Patil,C203,Full Stack Dev,B3,Saurabh,Tablet,18587,DISC30,0.3,17000,14-01-2024
+S1439,Manish Joshi,C202,Data Science,B3,Priya,Mobile,13646,DISC10,0.1,13000,20-02-2024
+S1440,Kunal Patel,C202,Data Science,B2,Priya,Web,11987,,,13000,10-02-2024
+S1441,Kavita Shah,C201,Data Analytics,B2,Priya,Web,13584,DISC15,,14000,27-01-2024
+S1442,Pooja Gupta,C202,Data Science,B2,Saurabh,Web,13405,DISC10,0.1,13000,01-01-2024
+S1443,Aditya Patil,C201,Data Analytics,B1,Priya,Tablet,13173,DISC15,,14000,19-02-2024
+S1444,Rahul Verma,C204,UI UX Design,B1,Amit,Tablet,9202,DISC15,,9000,10-01-2024
+S1445,Aditya Shah,C203,Full Stack Dev,B1,Amit,Web,18990,DISC20,0.2,17000,04-02-2024
+S1446,Pooja Verma,C201,Data Analytics,B2,Amit,Mobile,14989,DISC20,0.2,14000,04-01-2024
+S1447,Sneha Shah,C204,UI UX Design,B1,Priya,Tablet,9493,DISC10,0.1,9000,20-01-2024
+S1448,Rohit Desai,C202,Data Science,B1,Saurabh,Tablet,11562,DISC10,0.1,13000,11-01-2024
+S1449,Neha Jain,C203,Full Stack Dev,B1,Priya,Web,18071,DISC30,0.3,17000,16-02-2024
+S1450,Kunal Shah,C201,Data Analytics,B2,Priya,Mobile,14145,DISC10,0.1,14000,17-01-2024
+S1451,Anjali Joshi,C201,Data Analytics,B2,Priya,Tablet,13475,DISC10,0.1,14000,01-02-2024
+S1452,Meera Joshi,C202,Data Science,B2,Saurabh,Mobile,14167,DISC10,0.1,13000,27-02-2024
+S1453,Kavita Singh,C201,Data Analytics,B1,Amit,Tablet,12010,DISC10,0.1,14000,24-02-2024
+S1454,Meera Kulkarni,C202,Data Science,B1,Priya,Mobile,12568,DISC20,0.2,13000,12-01-2024
+S1455,Kunal Nair,C201,Data Analytics,B3,Amit,Tablet,14685,,,14000,15-01-2024
+S1456,Pooja Patil,C204,UI UX Design,B3,Priya,Mobile,10383,DISC10,0.1,9000,06-02-2024
+S1457,Pooja Shah,C201,Data Analytics,B1,Saurabh,Tablet,12188,,,14000,05-01-2024
+S1458,Kunal Iyer,C203,Full Stack Dev,B2,Priya,Web,17265,,,17000,01-01-2024
+S1459,Pooja Patil,C203,Full Stack Dev,B3,Priya,Tablet,17550,DISC20,0.2,17000,30-01-2024
+S1460,Pooja Joshi,C204,UI UX Design,B1,Amit,Tablet,10114,DISC20,0.2,9000,10-01-2024
+S1461,Aarav Verma,C201,Data Analytics,B1,Amit,Mobile,14604,DISC10,0.1,14000,01-03-2024
+S1462,Pooja Kulkarni,C204,UI UX Design,B3,Amit,Mobile,7425,DISC20,0.2,9000,03-02-2024
+S1463,Sneha Verma,C204,UI UX Design,B1,Saurabh,Tablet,8146,DISC10,0.1,9000,03-01-2024
+S1464,Kunal Patil,C204,UI UX Design,B3,Priya,Mobile,10991,DISC10,0.1,9000,07-02-2024
+S1465,Riya Gupta,C202,Data Science,B3,Priya,Web,13424,DISC15,,13000,04-01-2024
+S1466,Rahul Singh,C202,Data Science,B1,Priya,Mobile,14485,DISC30,0.3,13000,29-02-2024
+S1467,Dev Verma,C203,Full Stack Dev,B2,Priya,Mobile,15956,DISC10,0.1,17000,01-03-2024
+S1468,Sneha Mehta,C201,Data Analytics,B1,Saurabh,Web,13841,,,14000,21-01-2024
+S1469,Rahul Shah,C203,Full Stack Dev,B1,Priya,Mobile,16897,DISC30,0.3,17000,24-02-2024
+S1470,Riya Shah,C202,Data Science,B3,Priya,Tablet,13854,DISC15,,13000,03-01-2024
+S1471,Sneha Nair,C203,Full Stack Dev,B1,Saurabh,Tablet,16016,DISC30,0.3,17000,26-01-2024
+S1472,Manish Kulkarni,C203,Full Stack Dev,B2,Saurabh,Web,18899,,,17000,24-02-2024
+S1473,Neha Gupta,C202,Data Science,B1,Priya,Web,14292,DISC20,0.2,13000,08-01-2024
+S1474,Aarav Kulkarni,C202,Data Science,B1,Saurabh,Mobile,12524,DISC10,0.1,13000,07-02-2024
+S1475,Kavita Rao,C201,Data Analytics,B1,Saurabh,Web,15696,,,14000,21-02-2024
+S1476,Karan Shah,C203,Full Stack Dev,B1,Saurabh,Mobile,15207,DISC20,0.2,17000,29-02-2024
+S1477,Kavita Verma,C204,UI UX Design,B2,Saurabh,Mobile,9798,,,9000,12-01-2024
+S1478,Pooja Patil,C202,Data Science,B2,Priya,Mobile,14618,DISC20,0.2,13000,03-01-2024
+S1479,Kavita Joshi,C202,Data Science,B3,Priya,Mobile,12687,DISC15,,13000,31-01-2024
+S1480,Aarav Shah,C203,Full Stack Dev,B2,Saurabh,Mobile,15816,DISC15,,17000,16-01-2024
+S1481,Rohit Patel,C201,Data Analytics,B2,Amit,Mobile,13964,DISC15,,14000,20-02-2024
+S1482,Neha Jain,C203,Full Stack Dev,B2,Priya,Web,15106,DISC30,0.3,17000,08-02-2024
+S1483,Sneha Kulkarni,C203,Full Stack Dev,B1,Priya,Tablet,16464,DISC15,,17000,15-01-2024
+S1484,Karan Shah,C202,Data Science,B3,Saurabh,Mobile,13185,DISC10,0.1,13000,18-02-2024
+S1485,Sneha Joshi,C204,UI UX Design,B2,Saurabh,Web,7968,DISC15,,9000,21-01-2024
+S1486,Dev Desai,C203,Full Stack Dev,B3,Saurabh,Tablet,17869,DISC30,0.3,17000,01-03-2024
+S1487,Kavita Joshi,C202,Data Science,B3,Saurabh,Mobile,13220,DISC30,0.3,13000,12-01-2024
+S1488,Neha Kulkarni,C201,Data Analytics,B1,Saurabh,Tablet,12896,DISC10,0.1,14000,03-02-2024
+S1489,Neha Kulkarni,C203,Full Stack Dev,B3,Saurabh,Web,16395,DISC20,0.2,17000,28-02-2024
+S1490,Dev Nair,C203,Full Stack Dev,B1,Saurabh,Web,17402,DISC20,0.2,17000,19-02-2024
+S1491,Riya Nair,C203,Full Stack Dev,B1,Priya,Tablet,18858,,,17000,07-02-2024
+S1492,Riya Jain,C203,Full Stack Dev,B2,Saurabh,Web,17999,,,17000,20-02-2024
+S1493,Rohit Iyer,C203,Full Stack Dev,B1,Amit,Tablet,17840,DISC15,,17000,20-02-2024
+S1494,Pooja Patil,C202,Data Science,B2,Priya,Tablet,13820,DISC30,0.3,13000,09-01-2024
+S1495,Karan Desai,C201,Data Analytics,B3,Amit,Mobile,15484,DISC15,,14000,03-01-2024
+S1496,Karan Joshi,C203,Full Stack Dev,B3,Saurabh,Tablet,17316,DISC10,0.1,17000,29-02-2024
+S1497,Neha Mehta,C203,Full Stack Dev,B3,Saurabh,Web,16420,DISC30,0.3,17000,11-01-2024
+S1498,Rohit Shah,C203,Full Stack Dev,B2,Saurabh,Mobile,15858,DISC20,0.2,17000,14-02-2024
+S1499,Riya Jain,C203,Full Stack Dev,B1,Amit,Web,15197,,,17000,29-01-2024
+S1500,Anjali Verma,C202,Data Science,B2,Priya,Mobile,12438,DISC15,,13000,25-01-2024
+S1501,Riya Nair,C204,UI UX Design,B3,Amit,Tablet,7923,DISC20,0.2,9000,29-01-2024
+S1502,Riya Patel,C201,Data Analytics,B2,Saurabh,Mobile,13069,DISC10,0.1,14000,05-01-2024
+S1503,Pooja Mehta,C204,UI UX Design,B1,Amit,Web,9240,DISC10,0.1,9000,22-01-2024
+S1504,Kavita Joshi,C204,UI UX Design,B3,Saurabh,Mobile,10860,DISC20,0.2,9000,08-02-2024
+S1505,Kunal Verma,C202,Data Science,B1,Saurabh,Mobile,11841,DISC20,0.2,13000,27-01-2024
+S1506,Anjali Gupta,C203,Full Stack Dev,B3,Priya,Mobile,15972,DISC10,0.1,17000,04-01-2024
+S1507,Rahul Joshi,C204,UI UX Design,B1,Saurabh,Mobile,7015,,,9000,06-01-2024
+S1508,Aditya Nair,C204,UI UX Design,B1,Saurabh,Web,7847,DISC20,0.2,9000,10-02-2024
+S1509,Aditya Shah,C204,UI UX Design,B1,Priya,Mobile,8928,,,9000,27-02-2024
+S1510,Rohit Rao,C201,Data Analytics,B3,Amit,Mobile,12757,DISC30,0.3,14000,26-02-2024
+S1511,Rahul Jain,C202,Data Science,B2,Saurabh,Mobile,12801,,,13000,17-01-2024
+S1512,Sneha Nair,C203,Full Stack Dev,B3,Saurabh,Web,18081,DISC10,0.1,17000,06-01-2024
+S1513,Rohit Jain,C204,UI UX Design,B3,Saurabh,Tablet,7249,,,9000,22-02-2024
+S1514,Manish Verma,C204,UI UX Design,B3,Saurabh,Mobile,8224,DISC10,0.1,9000,26-01-2024
+S1515,Kunal Nair,C201,Data Analytics,B3,Amit,Tablet,15278,DISC15,,14000,13-02-2024
+S1516,Kavita Mehta,C201,Data Analytics,B2,Saurabh,Web,15981,DISC20,0.2,14000,21-02-2024
+S1517,Sneha Mehta,C201,Data Analytics,B2,Saurabh,Tablet,13783,DISC20,0.2,14000,22-02-2024
+S1518,Rohit Mehta,C203,Full Stack Dev,B2,Amit,Web,15356,,,17000,05-02-2024
+S1519,Rahul Gupta,C203,Full Stack Dev,B2,Amit,Mobile,18756,DISC10,0.1,17000,20-02-2024
+S1520,Anjali Joshi,C204,UI UX Design,B1,Priya,Web,7607,DISC15,,9000,07-02-2024
+S1521,Kavita Patel,C201,Data Analytics,B1,Amit,Web,15218,DISC30,0.3,14000,25-02-2024
+S1522,Manish Jain,C204,UI UX Design,B2,Priya,Tablet,8988,DISC15,,9000,08-02-2024
+S1523,Neha Kulkarni,C202,Data Science,B2,Priya,Web,13532,DISC15,,13000,13-02-2024
+S1524,Anjali Verma,C201,Data Analytics,B2,Priya,Tablet,12973,DISC10,0.1,14000,17-02-2024
+S1525,Neha Rao,C203,Full Stack Dev,B1,Priya,Mobile,16273,DISC30,0.3,17000,23-02-2024
+S1526,Neha Nair,C201,Data Analytics,B1,Saurabh,Mobile,15990,,,14000,19-02-2024
+S1527,Meera Jain,C203,Full Stack Dev,B3,Priya,Tablet,17644,DISC10,0.1,17000,13-01-2024
+S1528,Neha Patil,C204,UI UX Design,B3,Priya,Tablet,10552,DISC30,0.3,9000,22-02-2024
+S1529,Aarav Gupta,C202,Data Science,B1,Priya,Tablet,13075,,,13000,09-01-2024
+S1530,Dev Nair,C201,Data Analytics,B1,Saurabh,Web,15428,DISC10,0.1,14000,16-01-2024
+S1531,Aarav Iyer,C201,Data Analytics,B2,Amit,Web,13122,DISC30,0.3,14000,22-02-2024
+S1532,Neha Gupta,C204,UI UX Design,B3,Saurabh,Tablet,7125,DISC20,0.2,9000,24-01-2024
+S1533,Neha Joshi,C204,UI UX Design,B1,Priya,Tablet,9258,DISC30,0.3,9000,23-01-2024
+S1534,Karan Nair,C203,Full Stack Dev,B3,Amit,Web,16167,DISC10,0.1,17000,25-01-2024
+S1535,Aarav Mehta,C202,Data Science,B1,Amit,Web,13775,DISC20,0.2,13000,18-01-2024
+S1536,Rohit Verma,C201,Data Analytics,B3,Saurabh,Mobile,15733,DISC20,0.2,14000,11-02-2024
+S1537,Karan Joshi,C201,Data Analytics,B1,Priya,Tablet,15297,DISC30,0.3,14000,15-02-2024
+S1538,Anjali Singh,C203,Full Stack Dev,B2,Priya,Mobile,16880,DISC30,0.3,17000,14-01-2024
+S1539,Neha Rao,C204,UI UX Design,B3,Saurabh,Web,9095,DISC30,0.3,9000,05-02-2024
+S1540,Rohit Joshi,C203,Full Stack Dev,B2,Amit,Web,16973,DISC10,0.1,17000,22-01-2024
+S1541,Aditya Singh,C203,Full Stack Dev,B2,Priya,Tablet,17912,DISC30,0.3,17000,13-01-2024
+S1542,Karan Gupta,C202,Data Science,B1,Amit,Mobile,13705,DISC30,0.3,13000,13-02-2024
+S1543,Karan Desai,C201,Data Analytics,B3,Priya,Mobile,13062,,,14000,26-01-2024
+S1544,Rahul Desai,C201,Data Analytics,B3,Amit,Tablet,15342,DISC20,0.2,14000,22-01-2024
+S1545,Anjali Desai,C202,Data Science,B3,Amit,Tablet,14214,,,13000,28-02-2024
+S1546,Rohit Jain,C203,Full Stack Dev,B1,Amit,Tablet,15741,DISC30,0.3,17000,07-01-2024
+S1547,Neha Mehta,C203,Full Stack Dev,B3,Amit,Web,18878,DISC30,0.3,17000,11-02-2024
+S1548,Riya Patil,C203,Full Stack Dev,B1,Amit,Mobile,16722,DISC30,0.3,17000,24-01-2024
+S1549,Aditya Joshi,C203,Full Stack Dev,B2,Saurabh,Mobile,15219,DISC15,,17000,07-02-2024
+S1550,Kavita Shah,C204,UI UX Design,B1,Amit,Web,10553,,,9000,03-02-2024
+S1551,Aditya Verma,C201,Data Analytics,B1,Saurabh,Web,13403,,,14000,06-02-2024
+S1552,Kunal Iyer,C202,Data Science,B2,Amit,Web,14190,DISC10,0.1,13000,01-02-2024
+S1553,Pooja Singh,C202,Data Science,B2,Amit,Web,11019,,,13000,18-01-2024
+S1554,Sneha Patel,C202,Data Science,B3,Saurabh,Mobile,14216,DISC10,0.1,13000,09-01-2024
+S1555,Kavita Verma,C204,UI UX Design,B2,Priya,Mobile,8570,DISC10,0.1,9000,03-01-2024
+S1556,Manish Patil,C203,Full Stack Dev,B1,Priya,Tablet,15780,DISC10,0.1,17000,13-02-2024
+S1557,Aarav Singh,C202,Data Science,B1,Amit,Mobile,12278,DISC20,0.2,13000,07-01-2024
+S1558,Rahul Gupta,C203,Full Stack Dev,B1,Saurabh,Web,16221,DISC30,0.3,17000,30-01-2024
+S1559,Anjali Gupta,C203,Full Stack Dev,B2,Amit,Web,16403,,,17000,23-01-2024
+S1560,Dev Patil,C202,Data Science,B2,Saurabh,Web,11918,DISC20,0.2,13000,14-01-2024
+S1561,Anjali Kulkarni,C202,Data Science,B1,Priya,Tablet,13664,DISC10,0.1,13000,25-01-2024
+S1562,Kunal Singh,C203,Full Stack Dev,B3,Amit,Web,17432,DISC10,0.1,17000,12-02-2024
+S1563,Riya Singh,C201,Data Analytics,B1,Amit,Web,13707,,,14000,25-01-2024
+S1564,Riya Gupta,C203,Full Stack Dev,B2,Amit,Web,15841,DISC10,0.1,17000,20-01-2024
+S1565,Rahul Singh,C201,Data Analytics,B3,Amit,Mobile,14550,DISC15,,14000,14-02-2024
+S1566,Karan Verma,C201,Data Analytics,B3,Amit,Tablet,12482,DISC30,0.3,14000,08-01-2024
+S1567,Dev Shah,C204,UI UX Design,B1,Amit,Web,10186,DISC30,0.3,9000,23-02-2024
+S1568,Manish Patil,C203,Full Stack Dev,B3,Priya,Mobile,15656,DISC10,0.1,17000,05-02-2024
+S1569,Neha Patil,C204,UI UX Design,B2,Saurabh,Web,7052,DISC10,0.1,9000,28-02-2024
+S1570,Riya Nair,C204,UI UX Design,B1,Saurabh,Tablet,7307,DISC10,0.1,9000,27-02-2024
+S1571,Aditya Singh,C202,Data Science,B2,Priya,Mobile,12901,DISC10,0.1,13000,07-01-2024
+S1572,Meera Mehta,C201,Data Analytics,B2,Priya,Tablet,13280,,,14000,17-02-2024
+S1573,Riya Shah,C201,Data Analytics,B1,Saurabh,Tablet,14650,DISC20,0.2,14000,22-01-2024
+S1574,Pooja Iyer,C203,Full Stack Dev,B3,Saurabh,Mobile,18338,DISC30,0.3,17000,12-01-2024
+S1575,Riya Verma,C204,UI UX Design,B2,Priya,Mobile,9825,,,9000,21-02-2024
+S1576,Rahul Singh,C202,Data Science,B1,Saurabh,Tablet,13975,DISC10,0.1,13000,01-03-2024
+S1577,Meera Mehta,C201,Data Analytics,B2,Amit,Mobile,15286,DISC15,,14000,13-02-2024
+S1578,Neha Mehta,C204,UI UX Design,B2,Amit,Web,10533,DISC20,0.2,9000,31-01-2024
+S1579,Kunal Iyer,C201,Data Analytics,B2,Priya,Web,12259,DISC30,0.3,14000,11-02-2024
+S1580,Pooja Kulkarni,C202,Data Science,B3,Priya,Tablet,13142,DISC15,,13000,07-01-2024
+S1581,Rahul Singh,C202,Data Science,B2,Priya,Tablet,13770,,,13000,10-01-2024
+S1582,Meera Nair,C201,Data Analytics,B1,Amit,Web,14070,,,14000,24-02-2024
+S1583,Neha Nair,C202,Data Science,B1,Priya,Mobile,11986,DISC30,0.3,13000,18-01-2024
+S1584,Aarav Gupta,C202,Data Science,B3,Amit,Mobile,12651,DISC20,0.2,13000,06-01-2024
+S1585,Neha Iyer,C204,UI UX Design,B1,Priya,Mobile,8294,DISC10,0.1,9000,01-02-2024
+S1586,Anjali Singh,C201,Data Analytics,B1,Priya,Mobile,12146,DISC15,,14000,05-02-2024
+S1587,Aarav Nair,C201,Data Analytics,B3,Amit,Tablet,13247,DISC15,,14000,05-02-2024
+S1588,Sneha Singh,C204,UI UX Design,B2,Priya,Web,10344,DISC20,0.2,9000,24-02-2024
+S1589,Neha Jain,C204,UI UX Design,B3,Amit,Mobile,9932,,,9000,08-01-2024
+S1590,Riya Patel,C202,Data Science,B1,Priya,Mobile,14399,DISC30,0.3,13000,05-02-2024
+S1591,Manish Jain,C201,Data Analytics,B1,Saurabh,Mobile,12575,,,14000,07-01-2024
+S1592,Aditya Joshi,C202,Data Science,B1,Saurabh,Mobile,11883,,,13000,22-02-2024
+S1593,Dev Patil,C203,Full Stack Dev,B1,Priya,Web,18795,DISC15,,17000,08-01-2024
+S1594,Dev Iyer,C204,UI UX Design,B3,Amit,Tablet,7551,,,9000,01-01-2024
+S1595,Manish Desai,C201,Data Analytics,B3,Priya,Tablet,13978,DISC15,,14000,19-02-2024
+S1596,Kunal Mehta,C202,Data Science,B3,Saurabh,Web,12586,DISC15,,13000,08-02-2024
+S1597,Kunal Jain,C204,UI UX Design,B2,Amit,Tablet,10122,DISC20,0.2,9000,18-01-2024
+S1598,Rahul Jain,C203,Full Stack Dev,B2,Saurabh,Web,16690,DISC15,,17000,14-02-2024
+S1599,Kunal Desai,C203,Full Stack Dev,B3,Amit,Mobile,17915,DISC15,,17000,10-02-2024
+S1600,Sneha Patil,C202,Data Science,B3,Amit,Mobile,13812,DISC30,0.3,13000,28-02-2024
+S1601,Rohit Mehta,C202,Data Science,B3,Amit,Tablet,13608,DISC30,0.3,13000,15-02-2024
+S1602,Riya Patel,C203,Full Stack Dev,B3,Priya,Tablet,17337,,,17000,13-02-2024
+S1603,Anjali Nair,C203,Full Stack Dev,B2,Saurabh,Tablet,15436,DISC10,0.1,17000,25-01-2024
+S1604,Karan Kulkarni,C201,Data Analytics,B1,Priya,Web,13173,DISC30,0.3,14000,10-01-2024
+S1605,Meera Kulkarni,C203,Full Stack Dev,B1,Amit,Web,16469,,,17000,07-01-2024
+S1606,Kavita Nair,C202,Data Science,B3,Amit,Tablet,12592,DISC20,0.2,13000,02-02-2024
+S1607,Dev Patel,C203,Full Stack Dev,B3,Amit,Web,18794,,,17000,25-01-2024
+S1608,Rahul Patel,C203,Full Stack Dev,B3,Saurabh,Web,18046,DISC30,0.3,17000,13-01-2024
+S1609,Kavita Nair,C204,UI UX Design,B1,Amit,Tablet,9906,DISC30,0.3,9000,18-02-2024
+S1610,Kavita Gupta,C202,Data Science,B3,Saurabh,Mobile,12838,DISC20,0.2,13000,13-02-2024
+S1611,Riya Mehta,C202,Data Science,B3,Amit,Web,12545,DISC10,0.1,13000,28-01-2024
+S1612,Aditya Gupta,C203,Full Stack Dev,B1,Saurabh,Tablet,18465,DISC30,0.3,17000,01-01-2024
+S1613,Pooja Iyer,C202,Data Science,B1,Saurabh,Mobile,13444,DISC10,0.1,13000,19-02-2024
+S1614,Kunal Singh,C203,Full Stack Dev,B2,Amit,Tablet,16466,DISC10,0.1,17000,20-02-2024
+S1615,Anjali Jain,C202,Data Science,B1,Amit,Web,14220,DISC15,,13000,11-01-2024
+S1616,Rahul Gupta,C204,UI UX Design,B1,Priya,Web,10618,DISC20,0.2,9000,12-02-2024
+S1617,Pooja Jain,C203,Full Stack Dev,B2,Saurabh,Tablet,17172,,,17000,05-02-2024
+S1618,Meera Patel,C201,Data Analytics,B1,Amit,Mobile,13825,DISC20,0.2,14000,27-02-2024
+S1619,Rohit Joshi,C202,Data Science,B1,Amit,Mobile,12562,DISC10,0.1,13000,25-01-2024
+S1620,Aditya Gupta,C203,Full Stack Dev,B1,Amit,Mobile,17106,DISC15,,17000,29-01-2024
+S1621,Neha Kulkarni,C203,Full Stack Dev,B3,Saurabh,Mobile,17104,DISC10,0.1,17000,01-03-2024
+S1622,Riya Mehta,C201,Data Analytics,B3,Saurabh,Web,14745,DISC20,0.2,14000,25-02-2024
+S1623,Rohit Verma,C201,Data Analytics,B1,Amit,Tablet,15598,,,14000,11-02-2024
+S1624,Meera Shah,C202,Data Science,B1,Priya,Tablet,12358,DISC10,0.1,13000,06-01-2024
+S1625,Riya Kulkarni,C202,Data Science,B2,Amit,Web,13355,DISC20,0.2,13000,28-02-2024
+S1626,Aditya Verma,C204,UI UX Design,B2,Amit,Mobile,8773,DISC30,0.3,9000,02-01-2024
+S1627,Rahul Singh,C201,Data Analytics,B3,Saurabh,Tablet,14950,DISC15,,14000,05-01-2024
+S1628,Dev Desai,C201,Data Analytics,B3,Saurabh,Mobile,15801,DISC15,,14000,07-01-2024
+S1629,Aditya Patel,C203,Full Stack Dev,B3,Saurabh,Mobile,18134,,,17000,25-01-2024
+S1630,Rahul Nair,C201,Data Analytics,B2,Saurabh,Tablet,12900,DISC20,0.2,14000,17-02-2024
+S1631,Rahul Patel,C203,Full Stack Dev,B3,Saurabh,Mobile,17774,DISC30,0.3,17000,01-03-2024
+S1632,Aarav Gupta,C202,Data Science,B1,Saurabh,Web,13345,DISC15,,13000,26-01-2024
+S1633,Manish Gupta,C201,Data Analytics,B2,Saurabh,Tablet,15036,DISC30,0.3,14000,14-01-2024
+S1634,Rahul Singh,C202,Data Science,B1,Saurabh,Web,13526,DISC30,0.3,13000,13-01-2024
+S1635,Riya Mehta,C201,Data Analytics,B3,Priya,Tablet,14251,DISC10,0.1,14000,19-01-2024
+S1636,Rohit Shah,C203,Full Stack Dev,B1,Saurabh,Tablet,17378,,,17000,01-03-2024
+S1637,Pooja Jain,C202,Data Science,B3,Amit,Web,11409,DISC30,0.3,13000,09-02-2024
+S1638,Riya Patil,C203,Full Stack Dev,B2,Priya,Mobile,17524,DISC30,0.3,17000,14-02-2024
+S1639,Kavita Mehta,C203,Full Stack Dev,B2,Priya,Web,15019,DISC30,0.3,17000,16-01-2024
+S1640,Dev Patil,C204,UI UX Design,B2,Priya,Web,9783,DISC30,0.3,9000,26-02-2024
+S1641,Neha Iyer,C204,UI UX Design,B2,Priya,Mobile,9259,DISC10,0.1,9000,12-01-2024
+S1642,Rohit Joshi,C201,Data Analytics,B2,Saurabh,Tablet,12804,DISC30,0.3,14000,16-02-2024
+S1643,Kunal Singh,C201,Data Analytics,B3,Saurabh,Web,15479,DISC15,,14000,10-02-2024
+S1644,Aarav Nair,C204,UI UX Design,B3,Saurabh,Web,9259,DISC30,0.3,9000,04-02-2024
+S1645,Kunal Gupta,C204,UI UX Design,B3,Saurabh,Mobile,8607,DISC20,0.2,9000,27-02-2024
+S1646,Dev Joshi,C203,Full Stack Dev,B1,Priya,Tablet,17090,DISC10,0.1,17000,26-01-2024
+S1647,Pooja Gupta,C201,Data Analytics,B3,Saurabh,Tablet,14802,DISC20,0.2,14000,18-02-2024
+S1648,Manish Mehta,C204,UI UX Design,B1,Saurabh,Tablet,10885,DISC15,,9000,12-02-2024
+S1649,Meera Mehta,C204,UI UX Design,B2,Saurabh,Web,10118,,,9000,15-01-2024
+S1650,Riya Rao,C203,Full Stack Dev,B1,Saurabh,Tablet,15846,DISC15,,17000,28-02-2024
+S1651,Dev Jain,C204,UI UX Design,B2,Priya,Web,7163,DISC30,0.3,9000,07-01-2024
+S1652,Anjali Gupta,C203,Full Stack Dev,B3,Priya,Tablet,17229,DISC15,,17000,12-01-2024
+S1653,Rahul Singh,C204,UI UX Design,B2,Amit,Tablet,10679,DISC10,0.1,9000,03-02-2024
+S1654,Aditya Verma,C202,Data Science,B3,Priya,Mobile,14347,DISC30,0.3,13000,01-02-2024
+S1655,Dev Iyer,C201,Data Analytics,B3,Saurabh,Mobile,12678,DISC20,0.2,14000,05-01-2024
+S1656,Manish Singh,C203,Full Stack Dev,B1,Saurabh,Web,15644,DISC30,0.3,17000,08-02-2024
+S1657,Anjali Nair,C201,Data Analytics,B3,Saurabh,Mobile,15322,DISC30,0.3,14000,16-02-2024
+S1658,Riya Iyer,C204,UI UX Design,B2,Saurabh,Tablet,7660,,,9000,02-01-2024
+S1659,Sneha Kulkarni,C202,Data Science,B3,Amit,Web,11551,DISC15,,13000,03-01-2024
+S1660,Kunal Joshi,C202,Data Science,B1,Saurabh,Mobile,14778,DISC20,0.2,13000,03-02-2024
+S1661,Rahul Joshi,C201,Data Analytics,B3,Amit,Tablet,15364,DISC30,0.3,14000,01-03-2024
+S1662,Riya Patil,C204,UI UX Design,B3,Priya,Mobile,7698,DISC20,0.2,9000,23-02-2024
+S1663,Rahul Joshi,C202,Data Science,B3,Saurabh,Tablet,13701,DISC15,,13000,17-01-2024
+S1664,Karan Desai,C203,Full Stack Dev,B2,Amit,Tablet,15281,DISC20,0.2,17000,25-01-2024
+S1665,Rahul Mehta,C201,Data Analytics,B1,Saurabh,Tablet,15520,DISC15,,14000,13-02-2024
+S1666,Rahul Nair,C202,Data Science,B3,Saurabh,Web,12949,DISC15,,13000,08-02-2024
+S1667,Aarav Patel,C201,Data Analytics,B1,Priya,Tablet,12533,DISC15,,14000,04-02-2024
+S1668,Meera Kulkarni,C204,UI UX Design,B3,Priya,Mobile,10583,DISC10,0.1,9000,14-02-2024
+S1669,Manish Verma,C202,Data Science,B2,Priya,Mobile,13412,DISC15,,13000,07-01-2024
+S1670,Rahul Mehta,C203,Full Stack Dev,B2,Saurabh,Web,16160,DISC15,,17000,26-02-2024
+S1671,Manish Verma,C203,Full Stack Dev,B1,Saurabh,Tablet,18045,DISC10,0.1,17000,06-02-2024
+S1672,Manish Shah,C201,Data Analytics,B2,Amit,Web,14817,DISC30,0.3,14000,27-01-2024
+S1673,Pooja Shah,C202,Data Science,B2,Amit,Tablet,12038,DISC30,0.3,13000,24-02-2024
+S1674,Manish Verma,C203,Full Stack Dev,B3,Priya,Tablet,16627,DISC20,0.2,17000,27-01-2024
+S1675,Manish Patel,C204,UI UX Design,B1,Priya,Tablet,9272,,,9000,17-01-2024
+S1676,Aditya Joshi,C203,Full Stack Dev,B3,Priya,Tablet,15565,DISC10,0.1,17000,17-02-2024
+S1677,Sneha Iyer,C202,Data Science,B1,Saurabh,Tablet,12640,DISC30,0.3,13000,21-02-2024
+S1678,Manish Joshi,C201,Data Analytics,B1,Priya,Tablet,12021,DISC10,0.1,14000,22-02-2024
+S1679,Karan Iyer,C204,UI UX Design,B1,Saurabh,Mobile,7908,DISC30,0.3,9000,06-01-2024
+S1680,Kavita Kulkarni,C204,UI UX Design,B2,Amit,Tablet,9134,DISC30,0.3,9000,15-02-2024
+S1681,Kavita Kulkarni,C202,Data Science,B3,Priya,Mobile,11043,DISC20,0.2,13000,24-02-2024
+S1682,Rohit Patel,C203,Full Stack Dev,B1,Saurabh,Tablet,17091,DISC15,,17000,14-02-2024
+S1683,Sneha Joshi,C202,Data Science,B3,Saurabh,Mobile,11979,DISC10,0.1,13000,11-01-2024
+S1684,Riya Rao,C204,UI UX Design,B2,Amit,Mobile,8660,DISC15,,9000,13-01-2024
+S1685,Manish Kulkarni,C201,Data Analytics,B1,Amit,Mobile,14974,DISC15,,14000,28-02-2024
+S1686,Kavita Jain,C203,Full Stack Dev,B2,Saurabh,Tablet,18944,DISC20,0.2,17000,30-01-2024
+S1687,Kunal Verma,C201,Data Analytics,B2,Saurabh,Mobile,14073,DISC10,0.1,14000,05-02-2024
+S1688,Riya Gupta,C203,Full Stack Dev,B2,Saurabh,Tablet,18918,DISC30,0.3,17000,26-02-2024
+S1689,Manish Nair,C203,Full Stack Dev,B3,Priya,Mobile,17306,,,17000,19-02-2024
+S1690,Sneha Patel,C203,Full Stack Dev,B2,Amit,Mobile,18672,DISC15,,17000,25-02-2024
+S1691,Aarav Iyer,C201,Data Analytics,B2,Saurabh,Mobile,14595,DISC20,0.2,14000,13-02-2024
+S1692,Anjali Patil,C203,Full Stack Dev,B2,Priya,Tablet,17194,DISC10,0.1,17000,14-02-2024
+S1693,Meera Rao,C202,Data Science,B2,Saurabh,Mobile,13759,DISC30,0.3,13000,05-01-2024
+S1694,Manish Mehta,C204,UI UX Design,B2,Priya,Web,10663,DISC15,,9000,18-01-2024
+S1695,Karan Desai,C202,Data Science,B2,Amit,Web,11961,DISC20,0.2,13000,25-02-2024
+S1696,Aditya Patil,C202,Data Science,B1,Saurabh,Tablet,12458,DISC20,0.2,13000,19-02-2024
+S1697,Riya Shah,C201,Data Analytics,B3,Amit,Mobile,14514,DISC10,0.1,14000,18-02-2024
+S1698,Meera Gupta,C201,Data Analytics,B2,Priya,Tablet,13291,,,14000,27-02-2024
+S1699,Kunal Joshi,C203,Full Stack Dev,B2,Saurabh,Tablet,16147,,,17000,15-01-2024
+S1700,Dev Joshi,C202,Data Science,B1,Amit,Mobile,12959,DISC15,,13000,03-01-2024
+S1701,Manish Jain,C204,UI UX Design,B3,Saurabh,Mobile,10999,DISC10,0.1,9000,14-02-2024
+S1702,Manish Iyer,C203,Full Stack Dev,B3,Saurabh,Web,17761,DISC20,0.2,17000,25-01-2024
+S1703,Kavita Shah,C203,Full Stack Dev,B2,Amit,Mobile,15766,DISC15,,17000,17-01-2024
+S1704,Sneha Rao,C204,UI UX Design,B3,Priya,Mobile,7753,,,9000,28-01-2024
+S1705,Sneha Verma,C203,Full Stack Dev,B2,Priya,Mobile,16846,DISC20,0.2,17000,06-02-2024
+S1706,Karan Joshi,C202,Data Science,B1,Amit,Mobile,14293,DISC20,0.2,13000,05-02-2024
+S1707,Rahul Nair,C204,UI UX Design,B1,Saurabh,Tablet,7612,,,9000,21-02-2024
+S1708,Aarav Mehta,C204,UI UX Design,B2,Saurabh,Tablet,9117,DISC15,,9000,16-02-2024
+S1709,Pooja Patel,C204,UI UX Design,B2,Priya,Tablet,10516,DISC15,,9000,04-01-2024
+S1710,Rahul Shah,C202,Data Science,B1,Saurabh,Mobile,12951,DISC10,0.1,13000,29-01-2024
+S1711,Anjali Jain,C203,Full Stack Dev,B2,Priya,Tablet,17283,DISC30,0.3,17000,23-01-2024
+S1712,Aarav Verma,C201,Data Analytics,B2,Amit,Tablet,12814,DISC15,,14000,06-02-2024
+S1713,Rohit Singh,C202,Data Science,B2,Priya,Mobile,13757,DISC15,,13000,01-02-2024
+S1714,Dev Desai,C204,UI UX Design,B1,Priya,Tablet,8173,,,9000,10-02-2024
+S1715,Karan Nair,C202,Data Science,B3,Priya,Mobile,13585,DISC15,,13000,06-02-2024
+S1716,Rahul Nair,C201,Data Analytics,B1,Saurabh,Mobile,12934,DISC30,0.3,14000,21-01-2024
+S1717,Rohit Rao,C203,Full Stack Dev,B3,Amit,Mobile,16111,,,17000,19-02-2024
+S1718,Meera Jain,C204,UI UX Design,B2,Saurabh,Web,10498,DISC10,0.1,9000,09-01-2024
+S1719,Anjali Patil,C203,Full Stack Dev,B3,Amit,Tablet,15327,DISC20,0.2,17000,11-01-2024
+S1720,Rahul Shah,C201,Data Analytics,B1,Priya,Tablet,12220,DISC10,0.1,14000,19-02-2024
+S1721,Rahul Gupta,C201,Data Analytics,B1,Priya,Tablet,12636,DISC10,0.1,14000,11-02-2024
+S1722,Kunal Verma,C203,Full Stack Dev,B1,Saurabh,Tablet,16163,,,17000,10-02-2024
+S1723,Karan Mehta,C202,Data Science,B1,Saurabh,Tablet,12461,DISC30,0.3,13000,25-02-2024
+S1724,Neha Iyer,C203,Full Stack Dev,B3,Priya,Web,18971,DISC15,,17000,12-01-2024
+S1725,Kavita Joshi,C204,UI UX Design,B3,Amit,Tablet,10593,DISC15,,9000,28-01-2024
+S1726,Manish Singh,C203,Full Stack Dev,B2,Priya,Tablet,15930,DISC10,0.1,17000,29-01-2024
+S1727,Aditya Jain,C204,UI UX Design,B2,Saurabh,Mobile,7043,DISC10,0.1,9000,03-02-2024
+S1728,Meera Patel,C202,Data Science,B2,Priya,Mobile,13191,DISC10,0.1,13000,14-02-2024
+S1729,Kunal Iyer,C204,UI UX Design,B2,Saurabh,Mobile,10268,DISC30,0.3,9000,08-02-2024
+S1730,Sneha Patel,C201,Data Analytics,B3,Priya,Web,13686,DISC15,,14000,28-01-2024
+S1731,Rahul Patil,C202,Data Science,B3,Amit,Tablet,12596,,,13000,15-01-2024
+S1732,Aditya Shah,C204,UI UX Design,B3,Saurabh,Tablet,10131,DISC15,,9000,21-02-2024
+S1733,Anjali Singh,C203,Full Stack Dev,B2,Amit,Tablet,17178,DISC30,0.3,17000,27-01-2024
+S1734,Sneha Nair,C201,Data Analytics,B1,Saurabh,Mobile,12452,,,14000,09-02-2024
+S1735,Neha Rao,C204,UI UX Design,B1,Priya,Web,7623,DISC10,0.1,9000,04-02-2024
+S1736,Aarav Mehta,C201,Data Analytics,B2,Priya,Web,14929,,,14000,16-02-2024
+S1737,Aarav Patil,C201,Data Analytics,B1,Saurabh,Mobile,12889,DISC30,0.3,14000,27-01-2024
+S1738,Aditya Patel,C204,UI UX Design,B2,Priya,Tablet,10241,DISC10,0.1,9000,22-01-2024
+S1739,Riya Nair,C202,Data Science,B1,Priya,Mobile,11292,DISC15,,13000,31-01-2024
+S1740,Karan Patil,C203,Full Stack Dev,B2,Saurabh,Web,18991,DISC20,0.2,17000,25-01-2024
+S1741,Dev Iyer,C202,Data Science,B3,Saurabh,Web,12887,DISC10,0.1,13000,03-02-2024
+S1742,Rohit Patil,C204,UI UX Design,B2,Amit,Mobile,10834,DISC30,0.3,9000,11-01-2024
+S1743,Rohit Desai,C201,Data Analytics,B3,Amit,Tablet,12500,DISC30,0.3,14000,31-01-2024
+S1744,Rohit Rao,C202,Data Science,B2,Saurabh,Tablet,11892,DISC10,0.1,13000,16-01-2024
+S1745,Rohit Verma,C203,Full Stack Dev,B1,Saurabh,Mobile,17394,DISC10,0.1,17000,26-01-2024
+S1746,Dev Patil,C201,Data Analytics,B1,Amit,Tablet,13946,DISC15,,14000,10-01-2024
+S1747,Pooja Patel,C201,Data Analytics,B1,Saurabh,Mobile,12374,DISC15,,14000,22-01-2024
+S1748,Kunal Patel,C201,Data Analytics,B1,Priya,Tablet,12630,DISC15,,14000,20-02-2024
+S1749,Riya Mehta,C204,UI UX Design,B1,Priya,Tablet,10229,DISC30,0.3,9000,21-02-2024
+S1750,Kunal Iyer,C202,Data Science,B1,Amit,Mobile,12467,DISC20,0.2,13000,17-01-2024
+S1751,Kunal Kulkarni,C204,UI UX Design,B3,Priya,Tablet,8207,DISC15,,9000,14-02-2024
+S1752,Neha Patil,C202,Data Science,B3,Priya,Mobile,13999,,,13000,18-01-2024
+S1753,Meera Nair,C202,Data Science,B1,Amit,Web,12840,DISC30,0.3,13000,22-02-2024
+S1754,Aditya Gupta,C203,Full Stack Dev,B2,Saurabh,Tablet,17072,,,17000,16-02-2024
+S1755,Karan Kulkarni,C203,Full Stack Dev,B3,Saurabh,Mobile,17953,DISC10,0.1,17000,12-02-2024
+S1756,Manish Nair,C204,UI UX Design,B1,Amit,Tablet,9037,DISC15,,9000,10-01-2024
+S1757,Kavita Rao,C203,Full Stack Dev,B2,Amit,Mobile,15452,DISC10,0.1,17000,03-02-2024
+S1758,Rohit Shah,C201,Data Analytics,B1,Saurabh,Web,12827,DISC10,0.1,14000,01-02-2024
+S1759,Sneha Shah,C201,Data Analytics,B3,Amit,Mobile,14694,,,14000,03-02-2024
+S1760,Kavita Desai,C203,Full Stack Dev,B1,Priya,Web,17481,DISC10,0.1,17000,01-01-2024
+S1761,Kunal Patil,C204,UI UX Design,B1,Priya,Tablet,7248,DISC30,0.3,9000,05-02-2024
+S1762,Anjali Verma,C203,Full Stack Dev,B3,Saurabh,Tablet,16088,DISC15,,17000,03-01-2024
+S1763,Anjali Shah,C203,Full Stack Dev,B1,Saurabh,Tablet,15397,DISC10,0.1,17000,16-02-2024
+S1764,Sneha Gupta,C204,UI UX Design,B1,Saurabh,Tablet,9690,DISC20,0.2,9000,06-02-2024
+S1765,Rohit Mehta,C204,UI UX Design,B3,Saurabh,Tablet,9361,DISC30,0.3,9000,13-02-2024
+S1766,Neha Desai,C204,UI UX Design,B1,Saurabh,Web,9252,,,9000,02-02-2024
+S1767,Pooja Singh,C202,Data Science,B3,Amit,Mobile,14823,DISC30,0.3,13000,27-02-2024
+S1768,Pooja Gupta,C203,Full Stack Dev,B2,Priya,Tablet,16763,DISC30,0.3,17000,08-02-2024
+S1769,Sneha Joshi,C202,Data Science,B2,Amit,Tablet,12040,DISC30,0.3,13000,29-01-2024
+S1770,Neha Verma,C201,Data Analytics,B3,Saurabh,Mobile,14440,DISC10,0.1,14000,03-02-2024
+S1771,Karan Rao,C201,Data Analytics,B2,Saurabh,Web,15505,DISC30,0.3,14000,02-01-2024
+S1772,Dev Nair,C203,Full Stack Dev,B3,Amit,Tablet,17337,DISC15,,17000,10-01-2024
+S1773,Riya Kulkarni,C204,UI UX Design,B2,Saurabh,Web,8085,DISC30,0.3,9000,26-02-2024
+S1774,Kavita Patil,C202,Data Science,B2,Priya,Web,13336,,,13000,06-02-2024
+S1775,Kunal Patil,C201,Data Analytics,B3,Priya,Mobile,12708,,,14000,22-02-2024
+S1776,Kunal Desai,C201,Data Analytics,B3,Amit,Mobile,12153,DISC15,,14000,25-01-2024
+S1777,Riya Patel,C201,Data Analytics,B2,Priya,Mobile,13706,DISC10,0.1,14000,25-02-2024
+S1778,Dev Patil,C201,Data Analytics,B3,Amit,Mobile,12221,DISC30,0.3,14000,03-02-2024
+S1779,Aarav Jain,C202,Data Science,B2,Amit,Tablet,11904,DISC20,0.2,13000,04-01-2024
+S1780,Rohit Desai,C204,UI UX Design,B2,Amit,Tablet,9067,DISC10,0.1,9000,15-01-2024
+S1781,Rahul Rao,C204,UI UX Design,B1,Saurabh,Mobile,7338,,,9000,06-02-2024
+S1782,Anjali Kulkarni,C204,UI UX Design,B2,Saurabh,Mobile,9055,,,9000,19-02-2024
+S1783,Anjali Mehta,C202,Data Science,B2,Amit,Web,12998,,,13000,11-02-2024
+S1784,Kavita Patil,C202,Data Science,B1,Saurabh,Mobile,14181,,,13000,21-01-2024
+S1785,Rohit Joshi,C201,Data Analytics,B1,Amit,Mobile,13734,DISC30,0.3,14000,23-01-2024
+S1786,Sneha Jain,C203,Full Stack Dev,B3,Amit,Web,18152,DISC30,0.3,17000,11-01-2024
+S1787,Pooja Joshi,C204,UI UX Design,B3,Saurabh,Mobile,7183,DISC20,0.2,9000,13-01-2024
+S1788,Rohit Jain,C202,Data Science,B3,Saurabh,Web,14029,DISC10,0.1,13000,16-01-2024
+S1789,Kavita Mehta,C203,Full Stack Dev,B1,Priya,Tablet,18294,DISC10,0.1,17000,20-01-2024
+S1790,Neha Iyer,C201,Data Analytics,B2,Saurabh,Tablet,14203,DISC20,0.2,14000,14-01-2024
+S1791,Manish Gupta,C203,Full Stack Dev,B3,Priya,Tablet,17989,DISC20,0.2,17000,14-02-2024
+S1792,Anjali Singh,C201,Data Analytics,B2,Amit,Tablet,14157,DISC10,0.1,14000,17-01-2024
+S1793,Karan Kulkarni,C203,Full Stack Dev,B1,Amit,Tablet,16111,DISC10,0.1,17000,30-01-2024
+S1794,Rohit Kulkarni,C201,Data Analytics,B2,Amit,Mobile,14715,DISC30,0.3,14000,25-02-2024
+S1795,Riya Kulkarni,C203,Full Stack Dev,B3,Priya,Web,16559,DISC15,,17000,15-02-2024
+S1796,Riya Jain,C204,UI UX Design,B3,Amit,Web,7763,DISC20,0.2,9000,02-02-2024
+S1797,Neha Gupta,C201,Data Analytics,B1,Saurabh,Tablet,13248,DISC30,0.3,14000,01-02-2024
+S1798,Rahul Desai,C202,Data Science,B1,Priya,Tablet,12441,DISC30,0.3,13000,10-02-2024
+S1799,Aditya Patil,C203,Full Stack Dev,B1,Amit,Mobile,18599,,,17000,26-02-2024
+S1800,Meera Kulkarni,C203,Full Stack Dev,B1,Saurabh,Mobile,18674,,,17000,12-02-2024
+S1801,Karan Shah,C204,UI UX Design,B3,Amit,Tablet,10574,DISC20,0.2,9000,27-01-2024
+S1802,Sneha Joshi,C202,Data Science,B2,Priya,Tablet,12348,,,13000,04-02-2024
+S1803,Karan Patil,C202,Data Science,B3,Amit,Tablet,14277,DISC20,0.2,13000,25-02-2024
+S1804,Karan Rao,C202,Data Science,B2,Saurabh,Tablet,14821,DISC15,,13000,28-02-2024
+S1805,Karan Jain,C201,Data Analytics,B3,Amit,Tablet,12484,DISC20,0.2,14000,21-01-2024
+S1806,Meera Mehta,C201,Data Analytics,B2,Priya,Mobile,13242,,,14000,17-02-2024
+S1807,Kunal Nair,C203,Full Stack Dev,B1,Saurabh,Web,15538,DISC20,0.2,17000,02-01-2024
+S1808,Dev Joshi,C203,Full Stack Dev,B3,Amit,Tablet,15945,DISC15,,17000,15-01-2024
+S1809,Sneha Singh,C201,Data Analytics,B2,Saurabh,Tablet,15194,,,14000,09-01-2024
+S1810,Manish Nair,C204,UI UX Design,B3,Amit,Mobile,7753,,,9000,01-02-2024
+S1811,Neha Mehta,C202,Data Science,B1,Saurabh,Web,12673,DISC10,0.1,13000,29-02-2024
+S1812,Aditya Verma,C202,Data Science,B3,Amit,Web,14103,DISC20,0.2,13000,05-01-2024
+S1813,Karan Iyer,C204,UI UX Design,B3,Priya,Mobile,10635,DISC20,0.2,9000,28-01-2024
+S1814,Rahul Patel,C201,Data Analytics,B3,Amit,Mobile,14949,DISC30,0.3,14000,26-01-2024
+S1815,Kavita Desai,C201,Data Analytics,B3,Saurabh,Mobile,13871,DISC10,0.1,14000,26-02-2024
+S1816,Sneha Gupta,C204,UI UX Design,B3,Saurabh,Tablet,8586,DISC15,,9000,18-02-2024
+S1817,Rohit Kulkarni,C202,Data Science,B2,Priya,Mobile,14622,DISC30,0.3,13000,19-02-2024
+S1818,Meera Rao,C204,UI UX Design,B1,Priya,Mobile,9511,DISC10,0.1,9000,14-02-2024
+S1819,Manish Mehta,C204,UI UX Design,B3,Priya,Web,9959,DISC15,,9000,08-01-2024
+S1820,Karan Patel,C202,Data Science,B2,Priya,Mobile,12846,DISC10,0.1,13000,12-01-2024
+S1821,Neha Joshi,C202,Data Science,B2,Saurabh,Mobile,12327,DISC20,0.2,13000,15-02-2024
+S1822,Anjali Shah,C201,Data Analytics,B1,Amit,Mobile,14597,DISC30,0.3,14000,06-01-2024
+S1823,Manish Desai,C204,UI UX Design,B3,Amit,Tablet,10890,DISC20,0.2,9000,25-01-2024
+S1824,Manish Verma,C201,Data Analytics,B1,Priya,Tablet,15568,DISC20,0.2,14000,11-01-2024
+S1825,Meera Mehta,C202,Data Science,B3,Saurabh,Mobile,12261,DISC30,0.3,13000,16-02-2024
+S1826,Dev Iyer,C203,Full Stack Dev,B3,Saurabh,Web,18680,DISC20,0.2,17000,13-01-2024
+S1827,Aarav Joshi,C203,Full Stack Dev,B1,Priya,Mobile,18503,,,17000,04-02-2024
+S1828,Dev Kulkarni,C204,UI UX Design,B1,Saurabh,Tablet,9701,,,9000,30-01-2024
+S1829,Rahul Iyer,C201,Data Analytics,B3,Amit,Web,13002,DISC15,,14000,18-01-2024
+S1830,Kavita Singh,C202,Data Science,B1,Saurabh,Web,11225,DISC30,0.3,13000,03-01-2024
+S1831,Karan Nair,C201,Data Analytics,B3,Amit,Tablet,13222,DISC30,0.3,14000,28-02-2024
+S1832,Riya Kulkarni,C201,Data Analytics,B2,Saurabh,Web,14752,DISC30,0.3,14000,09-02-2024
+S1833,Rohit Desai,C202,Data Science,B2,Amit,Tablet,12475,DISC10,0.1,13000,06-01-2024
+S1834,Dev Rao,C203,Full Stack Dev,B2,Priya,Web,18106,,,17000,23-02-2024
+S1835,Manish Shah,C203,Full Stack Dev,B2,Saurabh,Web,17845,DISC30,0.3,17000,22-01-2024
+S1836,Manish Verma,C202,Data Science,B3,Saurabh,Tablet,11238,DISC10,0.1,13000,06-02-2024
+S1837,Anjali Singh,C201,Data Analytics,B2,Amit,Tablet,14477,DISC30,0.3,14000,28-01-2024
+S1838,Kavita Nair,C203,Full Stack Dev,B2,Amit,Tablet,17552,DISC30,0.3,17000,29-02-2024
+S1839,Karan Joshi,C204,UI UX Design,B3,Amit,Tablet,9038,,,9000,21-02-2024
+S1840,Karan Joshi,C202,Data Science,B3,Priya,Web,11006,DISC10,0.1,13000,02-01-2024
+S1841,Neha Singh,C201,Data Analytics,B3,Saurabh,Tablet,13698,,,14000,03-01-2024
+S1842,Pooja Jain,C202,Data Science,B1,Amit,Web,13826,DISC30,0.3,13000,17-01-2024
+S1843,Dev Shah,C203,Full Stack Dev,B2,Amit,Tablet,16326,DISC10,0.1,17000,08-01-2024
+S1844,Rohit Jain,C203,Full Stack Dev,B2,Amit,Tablet,17523,DISC10,0.1,17000,23-02-2024
+S1845,Karan Patil,C203,Full Stack Dev,B2,Amit,Mobile,18752,,,17000,21-02-2024
+S1846,Aarav Singh,C202,Data Science,B2,Saurabh,Tablet,12886,DISC15,,13000,27-02-2024
+S1847,Pooja Iyer,C204,UI UX Design,B3,Saurabh,Tablet,8226,DISC15,,9000,16-02-2024
+S1848,Rohit Jain,C201,Data Analytics,B1,Amit,Tablet,13358,DISC30,0.3,14000,05-01-2024
+S1849,Karan Rao,C201,Data Analytics,B2,Priya,Tablet,14188,DISC20,0.2,14000,06-02-2024
+S1850,Kavita Verma,C202,Data Science,B3,Saurabh,Mobile,13888,DISC30,0.3,13000,15-02-2024
+S1851,Aarav Rao,C204,UI UX Design,B1,Priya,Web,8522,,,9000,23-02-2024
+S1852,Aditya Patil,C203,Full Stack Dev,B1,Saurabh,Mobile,18215,DISC10,0.1,17000,19-02-2024
+S1853,Sneha Shah,C204,UI UX Design,B3,Saurabh,Mobile,10706,DISC15,,9000,10-01-2024
+S1854,Sneha Jain,C204,UI UX Design,B3,Amit,Mobile,10176,DISC30,0.3,9000,10-01-2024
+S1855,Dev Nair,C201,Data Analytics,B3,Amit,Web,12840,DISC10,0.1,14000,30-01-2024
+S1856,Rahul Desai,C201,Data Analytics,B1,Priya,Web,14814,DISC15,,14000,25-02-2024
+S1857,Riya Jain,C204,UI UX Design,B1,Saurabh,Tablet,10138,DISC30,0.3,9000,02-01-2024
+S1858,Kavita Patel,C203,Full Stack Dev,B3,Saurabh,Mobile,15821,DISC20,0.2,17000,19-01-2024
+S1859,Aditya Gupta,C203,Full Stack Dev,B2,Amit,Web,16116,DISC20,0.2,17000,11-01-2024
+S1860,Aditya Shah,C201,Data Analytics,B3,Amit,Tablet,12419,DISC20,0.2,14000,04-02-2024
+S1861,Pooja Gupta,C203,Full Stack Dev,B2,Saurabh,Tablet,18293,DISC30,0.3,17000,06-02-2024
+S1862,Sneha Mehta,C201,Data Analytics,B2,Amit,Mobile,14214,,,14000,04-01-2024
+S1863,Karan Kulkarni,C204,UI UX Design,B3,Saurabh,Web,8571,DISC10,0.1,9000,06-01-2024
+S1864,Rahul Verma,C202,Data Science,B3,Amit,Tablet,13578,,,13000,09-02-2024
+S1865,Pooja Rao,C203,Full Stack Dev,B1,Amit,Tablet,18314,DISC15,,17000,06-01-2024
+S1866,Kunal Patel,C204,UI UX Design,B3,Saurabh,Web,10329,,,9000,07-01-2024
+S1867,Neha Rao,C204,UI UX Design,B2,Saurabh,Web,7588,DISC15,,9000,17-01-2024
+S1868,Kunal Jain,C204,UI UX Design,B1,Amit,Tablet,8353,DISC30,0.3,9000,30-01-2024
+S1869,Neha Kulkarni,C201,Data Analytics,B2,Saurabh,Mobile,13960,,,14000,24-02-2024
+S1870,Karan Rao,C203,Full Stack Dev,B3,Amit,Web,17080,DISC10,0.1,17000,26-01-2024
+S1871,Meera Desai,C201,Data Analytics,B2,Amit,Tablet,12290,DISC30,0.3,14000,04-02-2024
+S1872,Neha Verma,C204,UI UX Design,B1,Amit,Web,9244,DISC20,0.2,9000,31-01-2024
+S1873,Rahul Shah,C203,Full Stack Dev,B1,Amit,Tablet,16765,,,17000,06-02-2024
+S1874,Dev Jain,C202,Data Science,B1,Amit,Tablet,11319,DISC15,,13000,23-02-2024
+S1875,Neha Shah,C204,UI UX Design,B2,Amit,Web,10367,,,9000,12-01-2024
+S1876,Aditya Verma,C201,Data Analytics,B3,Saurabh,Tablet,15334,DISC15,,14000,19-02-2024
+S1877,Meera Verma,C203,Full Stack Dev,B2,Amit,Tablet,15251,DISC10,0.1,17000,14-01-2024
+S1878,Meera Mehta,C201,Data Analytics,B1,Amit,Web,13855,DISC15,,14000,19-01-2024
+S1879,Rahul Joshi,C204,UI UX Design,B1,Saurabh,Tablet,10593,DISC30,0.3,9000,20-01-2024
+S1880,Kavita Patel,C203,Full Stack Dev,B2,Amit,Mobile,15365,DISC15,,17000,01-01-2024
+S1881,Kavita Gupta,C204,UI UX Design,B1,Priya,Web,8512,DISC15,,9000,04-01-2024
+S1882,Aarav Desai,C203,Full Stack Dev,B1,Priya,Web,15963,,,17000,14-02-2024
+S1883,Kavita Verma,C203,Full Stack Dev,B3,Priya,Mobile,16562,,,17000,04-02-2024
+S1884,Sneha Singh,C202,Data Science,B2,Saurabh,Web,13275,,,13000,23-02-2024
+S1885,Kunal Jain,C204,UI UX Design,B1,Priya,Tablet,7514,DISC20,0.2,9000,01-01-2024
+S1886,Riya Singh,C201,Data Analytics,B1,Amit,Mobile,14694,,,14000,09-01-2024
+S1887,Riya Mehta,C204,UI UX Design,B2,Amit,Tablet,10810,,,9000,09-02-2024
+S1888,Karan Iyer,C204,UI UX Design,B3,Priya,Mobile,8455,DISC20,0.2,9000,12-01-2024
+S1889,Rahul Joshi,C201,Data Analytics,B3,Priya,Tablet,12969,DISC15,,14000,18-01-2024
+S1890,Rahul Gupta,C203,Full Stack Dev,B1,Saurabh,Tablet,16979,DISC30,0.3,17000,08-01-2024
+S1891,Kavita Iyer,C201,Data Analytics,B1,Amit,Tablet,14156,DISC30,0.3,14000,30-01-2024
+S1892,Manish Shah,C201,Data Analytics,B1,Priya,Tablet,15037,DISC10,0.1,14000,13-02-2024
+S1893,Rohit Gupta,C203,Full Stack Dev,B3,Saurabh,Mobile,17191,DISC10,0.1,17000,31-01-2024
+S1894,Neha Gupta,C204,UI UX Design,B3,Amit,Mobile,8724,DISC30,0.3,9000,21-02-2024
+S1895,Aditya Rao,C202,Data Science,B1,Amit,Tablet,14069,DISC30,0.3,13000,16-02-2024
+S1896,Dev Joshi,C203,Full Stack Dev,B1,Amit,Mobile,17368,DISC20,0.2,17000,06-02-2024
+S1897,Aarav Singh,C203,Full Stack Dev,B3,Amit,Web,16174,,,17000,06-01-2024
+S1898,Karan Gupta,C201,Data Analytics,B2,Priya,Web,14522,DISC30,0.3,14000,18-01-2024
+S1899,Meera Rao,C201,Data Analytics,B3,Saurabh,Tablet,12715,DISC15,,14000,17-02-2024
+S1900,Karan Singh,C204,UI UX Design,B2,Saurabh,Mobile,10205,DISC20,0.2,9000,01-02-2024
+S1901,Karan Patel,C201,Data Analytics,B2,Saurabh,Web,14439,DISC20,0.2,14000,23-02-2024
+S1902,Neha Patel,C204,UI UX Design,B2,Saurabh,Tablet,8802,DISC20,0.2,9000,14-01-2024
+S1903,Kavita Desai,C203,Full Stack Dev,B1,Amit,Mobile,18094,DISC10,0.1,17000,04-01-2024
+S1904,Karan Iyer,C204,UI UX Design,B2,Priya,Mobile,10056,DISC15,,9000,15-01-2024
+S1905,Rahul Singh,C204,UI UX Design,B2,Priya,Web,9172,,,9000,01-01-2024
+S1906,Aditya Patel,C204,UI UX Design,B2,Amit,Mobile,10939,DISC15,,9000,13-02-2024
+S1907,Aarav Shah,C203,Full Stack Dev,B2,Amit,Tablet,18515,DISC30,0.3,17000,22-01-2024
+S1908,Aditya Rao,C201,Data Analytics,B2,Amit,Tablet,13602,,,14000,19-02-2024
+S1909,Rohit Desai,C202,Data Science,B3,Amit,Tablet,14155,DISC20,0.2,13000,03-02-2024
+S1910,Pooja Singh,C202,Data Science,B2,Amit,Web,13755,DISC10,0.1,13000,23-02-2024
+S1911,Riya Kulkarni,C204,UI UX Design,B1,Amit,Web,9807,,,9000,23-01-2024
+S1912,Sneha Desai,C203,Full Stack Dev,B2,Saurabh,Web,15097,DISC15,,17000,06-01-2024
+S1913,Aarav Joshi,C202,Data Science,B3,Amit,Web,13900,DISC10,0.1,13000,06-01-2024
+S1914,Meera Joshi,C202,Data Science,B2,Amit,Tablet,13318,DISC20,0.2,13000,27-02-2024
+S1915,Riya Desai,C202,Data Science,B2,Priya,Mobile,13705,DISC10,0.1,13000,10-02-2024
+S1916,Neha Rao,C204,UI UX Design,B3,Amit,Mobile,8054,DISC20,0.2,9000,19-02-2024
+S1917,Riya Rao,C201,Data Analytics,B2,Priya,Mobile,12246,DISC30,0.3,14000,22-02-2024
+S1918,Aditya Mehta,C204,UI UX Design,B1,Priya,Web,9499,,,9000,12-01-2024
+S1919,Rohit Iyer,C201,Data Analytics,B1,Amit,Mobile,12894,DISC15,,14000,11-02-2024
+S1920,Riya Iyer,C203,Full Stack Dev,B1,Saurabh,Web,15288,DISC15,,17000,16-02-2024
+S1921,Aditya Patel,C204,UI UX Design,B1,Priya,Web,9674,DISC10,0.1,9000,29-02-2024
+S1922,Aarav Singh,C204,UI UX Design,B2,Saurabh,Tablet,8350,,,9000,06-02-2024
+S1923,Aarav Gupta,C204,UI UX Design,B2,Priya,Mobile,10457,DISC10,0.1,9000,04-02-2024
+S1924,Sneha Kulkarni,C204,UI UX Design,B3,Priya,Web,9323,DISC15,,9000,29-02-2024
+S1925,Pooja Jain,C203,Full Stack Dev,B2,Saurabh,Tablet,18927,DISC10,0.1,17000,24-01-2024
+S1926,Manish Nair,C203,Full Stack Dev,B1,Priya,Mobile,17653,DISC20,0.2,17000,12-01-2024
+S1927,Manish Kulkarni,C204,UI UX Design,B3,Saurabh,Mobile,9850,,,9000,27-02-2024
+S1928,Riya Singh,C203,Full Stack Dev,B2,Saurabh,Tablet,16793,DISC20,0.2,17000,09-01-2024
+S1929,Aarav Patil,C201,Data Analytics,B3,Amit,Web,14003,,,14000,05-01-2024
+S1930,Dev Gupta,C203,Full Stack Dev,B2,Amit,Mobile,18959,DISC10,0.1,17000,03-01-2024
+S1931,Pooja Kulkarni,C203,Full Stack Dev,B3,Saurabh,Mobile,15484,DISC20,0.2,17000,21-02-2024
+S1932,Rohit Singh,C204,UI UX Design,B3,Amit,Web,10035,DISC15,,9000,15-01-2024
+S1933,Kunal Shah,C201,Data Analytics,B3,Saurabh,Mobile,14678,DISC10,0.1,14000,31-01-2024
+S1934,Kunal Joshi,C201,Data Analytics,B1,Amit,Tablet,12534,DISC10,0.1,14000,12-01-2024
+S1935,Rohit Kulkarni,C203,Full Stack Dev,B1,Priya,Tablet,15699,DISC15,,17000,05-01-2024
+S1936,Meera Nair,C201,Data Analytics,B1,Priya,Tablet,15273,DISC15,,14000,15-01-2024
+S1937,Riya Patel,C202,Data Science,B2,Priya,Tablet,13778,,,13000,21-01-2024
+S1938,Riya Singh,C202,Data Science,B2,Saurabh,Web,13429,DISC20,0.2,13000,22-01-2024
+S1939,Riya Shah,C203,Full Stack Dev,B1,Priya,Web,17852,DISC30,0.3,17000,05-02-2024
+S1940,Karan Iyer,C202,Data Science,B3,Saurabh,Web,11409,DISC15,,13000,25-01-2024
+S1941,Dev Mehta,C201,Data Analytics,B2,Saurabh,Web,12029,DISC20,0.2,14000,29-02-2024
+S1942,Riya Desai,C203,Full Stack Dev,B2,Amit,Mobile,17835,DISC20,0.2,17000,14-01-2024
+S1943,Karan Singh,C203,Full Stack Dev,B3,Priya,Mobile,15979,DISC20,0.2,17000,09-02-2024
+S1944,Anjali Kulkarni,C202,Data Science,B3,Priya,Tablet,14892,DISC10,0.1,13000,10-02-2024
+S1945,Meera Patel,C203,Full Stack Dev,B2,Priya,Web,17284,DISC20,0.2,17000,13-01-2024
+S1946,Riya Gupta,C201,Data Analytics,B3,Priya,Tablet,14078,DISC20,0.2,14000,30-01-2024
+S1947,Dev Singh,C202,Data Science,B2,Saurabh,Web,11461,DISC20,0.2,13000,13-02-2024
+S1948,Meera Iyer,C204,UI UX Design,B1,Saurabh,Tablet,10779,DISC10,0.1,9000,04-01-2024
+S1949,Rohit Jain,C203,Full Stack Dev,B1,Priya,Mobile,16369,DISC15,,17000,21-02-2024
+S1950,Kunal Patel,C204,UI UX Design,B1,Saurabh,Tablet,7214,DISC15,,9000,12-01-2024
+S1951,Karan Patel,C201,Data Analytics,B2,Amit,Web,12290,DISC20,0.2,14000,16-02-2024
+S1952,Neha Joshi,C203,Full Stack Dev,B2,Saurabh,Tablet,17772,DISC30,0.3,17000,15-01-2024
+S1953,Dev Shah,C203,Full Stack Dev,B1,Saurabh,Web,18021,,,17000,25-02-2024
+S1954,Sneha Verma,C202,Data Science,B1,Priya,Tablet,12984,DISC10,0.1,13000,26-02-2024
+S1955,Rahul Mehta,C202,Data Science,B3,Priya,Web,12586,DISC30,0.3,13000,09-01-2024
+S1956,Neha Desai,C202,Data Science,B3,Priya,Mobile,11828,DISC30,0.3,13000,09-01-2024
+S1957,Aarav Desai,C201,Data Analytics,B2,Saurabh,Web,15488,,,14000,30-01-2024
+S1958,Rahul Mehta,C203,Full Stack Dev,B1,Priya,Tablet,15642,DISC15,,17000,27-02-2024
+S1959,Karan Joshi,C202,Data Science,B1,Priya,Tablet,13003,DISC20,0.2,13000,07-02-2024
+S1960,Neha Nair,C204,UI UX Design,B2,Saurabh,Tablet,8753,DISC20,0.2,9000,16-01-2024
+S1961,Pooja Verma,C202,Data Science,B3,Saurabh,Tablet,14679,DISC10,0.1,13000,27-01-2024
+S1962,Aarav Kulkarni,C204,UI UX Design,B3,Amit,Web,8743,DISC15,,9000,26-01-2024
+S1963,Neha Patel,C201,Data Analytics,B2,Priya,Web,12340,DISC15,,14000,18-02-2024
+S1964,Aarav Desai,C204,UI UX Design,B1,Saurabh,Mobile,8211,DISC20,0.2,9000,11-02-2024
+S1965,Riya Kulkarni,C204,UI UX Design,B3,Priya,Web,9880,,,9000,24-02-2024
+S1966,Kavita Desai,C201,Data Analytics,B2,Priya,Web,15580,,,14000,12-01-2024
+S1967,Dev Nair,C203,Full Stack Dev,B3,Priya,Tablet,17594,DISC10,0.1,17000,25-02-2024
+S1968,Rohit Shah,C204,UI UX Design,B3,Priya,Tablet,7133,DISC30,0.3,9000,28-01-2024
+S1969,Dev Rao,C202,Data Science,B3,Saurabh,Tablet,14607,DISC30,0.3,13000,17-02-2024
+S1970,Kunal Kulkarni,C203,Full Stack Dev,B1,Saurabh,Mobile,16497,,,17000,09-02-2024
+S1971,Aarav Jain,C203,Full Stack Dev,B1,Amit,Tablet,17887,DISC10,0.1,17000,05-02-2024
+S1972,Anjali Patel,C202,Data Science,B1,Priya,Web,13210,DISC10,0.1,13000,11-02-2024
+S1973,Neha Desai,C202,Data Science,B3,Saurabh,Mobile,12444,DISC30,0.3,13000,02-02-2024
+S1974,Rohit Verma,C203,Full Stack Dev,B1,Saurabh,Mobile,16414,,,17000,01-02-2024
+S1975,Manish Gupta,C201,Data Analytics,B2,Amit,Tablet,14778,DISC15,,14000,27-02-2024
+S1976,Aditya Iyer,C203,Full Stack Dev,B3,Amit,Web,15771,,,17000,06-01-2024
+S1977,Riya Verma,C202,Data Science,B2,Saurabh,Web,11674,DISC30,0.3,13000,08-01-2024
+S1978,Anjali Mehta,C204,UI UX Design,B1,Saurabh,Tablet,10899,DISC10,0.1,9000,19-01-2024
+S1979,Rahul Singh,C202,Data Science,B2,Priya,Mobile,12818,DISC10,0.1,13000,19-01-2024
+S1980,Sneha Shah,C201,Data Analytics,B1,Amit,Tablet,13375,,,14000,07-02-2024
+S1981,Pooja Singh,C203,Full Stack Dev,B2,Amit,Tablet,17854,DISC15,,17000,23-02-2024
+S1982,Manish Iyer,C204,UI UX Design,B2,Amit,Web,10679,DISC30,0.3,9000,11-01-2024
+S1983,Dev Rao,C202,Data Science,B2,Priya,Mobile,14152,DISC10,0.1,13000,10-01-2024
+S1984,Pooja Rao,C204,UI UX Design,B1,Amit,Web,9915,DISC15,,9000,19-01-2024
+S1985,Karan Mehta,C202,Data Science,B1,Saurabh,Web,11168,DISC30,0.3,13000,06-02-2024
+S1986,Karan Iyer,C203,Full Stack Dev,B2,Saurabh,Web,17303,DISC10,0.1,17000,12-02-2024
+S1987,Pooja Jain,C202,Data Science,B2,Priya,Tablet,14995,DISC20,0.2,13000,04-02-2024
+S1988,Aditya Shah,C201,Data Analytics,B2,Priya,Web,15882,,,14000,29-02-2024
+S1989,Pooja Mehta,C201,Data Analytics,B3,Amit,Tablet,13356,DISC30,0.3,14000,31-01-2024
+S1990,Kunal Rao,C202,Data Science,B3,Amit,Mobile,12387,DISC10,0.1,13000,16-02-2024
+S1991,Neha Kulkarni,C202,Data Science,B3,Amit,Web,12261,DISC10,0.1,13000,26-01-2024
+S1992,Kavita Nair,C202,Data Science,B2,Priya,Web,12336,DISC10,0.1,13000,08-02-2024
+S1993,Rohit Patil,C202,Data Science,B2,Saurabh,Web,11342,DISC15,,13000,24-02-2024
+S1994,Neha Singh,C201,Data Analytics,B3,Priya,Web,14008,DISC30,0.3,14000,08-02-2024
+S1995,Kavita Gupta,C201,Data Analytics,B3,Priya,Mobile,12605,,,14000,24-01-2024
+S1996,Rahul Jain,C201,Data Analytics,B2,Priya,Mobile,13261,,,14000,25-02-2024
+S1997,Manish Shah,C202,Data Science,B3,Priya,Tablet,12702,,,13000,19-01-2024
+S1998,Karan Patel,C204,UI UX Design,B3,Priya,Web,10422,DISC15,,9000,08-02-2024
+S1999,Riya Mehta,C202,Data Science,B2,Priya,Tablet,12373,DISC10,0.1,13000,29-02-2024

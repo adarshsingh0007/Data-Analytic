@@ -1,0 +1,48 @@
+CREATE DATABASE zipbasket3;
+
+USE zipbasket3;
+
+CREATE TABLE orders (
+  order_id      INT PRIMARY KEY,
+  customer_id   INT  NOT NULL,
+  product_id    INT  NOT NULL,
+  order_date    DATE NOT NULL,
+  quantity      INT  NOT NULL CHECK (quantity > 0),
+  order_status  VARCHAR(15) NOT NULL CHECK (order_status IN ('Delivered','Cancelled')),
+  delivery_mins INT
+);
+
+
+INSERT INTO orders VALUES
+(1001,1 ,101,'2026-01-03',2,'Delivered',8   ),
+(1002,1 ,105,'2026-01-03',1,'Delivered',12  ),
+(1003,2 ,107,'2026-01-04',1,'Delivered',10  ),
+(1004,3 ,102,'2026-01-06',2,'Delivered',14  ),
+(1005,3 ,103,'2026-01-08',1,'Delivered',9   ),
+(1006,4 ,104,'2026-01-11',1,'Cancelled',NULL),
+(1007,4 ,104,'2026-01-11',1,'Delivered',9   ),
+(1008,5 ,106,'2026-01-13',5,'Delivered',7   ),
+(1009,6 ,105,'2026-01-16',3,'Cancelled',NULL),
+(1010,6 ,101,'2026-01-16',1,'Cancelled',NULL),
+(1011,2 ,101,'2026-01-20',3,'Delivered',9   ),
+(1012,1 ,108,'2026-02-02',2,'Delivered',10  ),
+(1013,7 ,102,'2026-02-02',1,'Delivered',13  ),
+(1014,7 ,107,'2026-02-05',2,'Delivered',8   ),
+(1015,3 ,105,'2026-02-07',2,'Cancelled',NULL),
+(1016,8 ,104,'2026-02-11',2,'Delivered',9   ),
+(1017,8 ,103,'2026-02-18',1,'Delivered',15  ),
+(1018,5 ,102,'2026-02-20',1,'Delivered',10  ),
+(1019,2 ,103,'2026-02-22',2,'Delivered',11  ),
+(1020,1 ,102,'2026-03-01',1,'Delivered',9   ),
+(1021,4 ,108,'2026-03-03',3,'Delivered',12  ),
+(1022,10,105,'2026-03-06',1,'Delivered',6   ),
+(1023,10,106,'2026-03-06',4,'Delivered',6   ),
+(1024,5 ,107,'2026-03-10',2,'Cancelled',NULL),
+(1025,7 ,101,'2026-03-15',2,'Delivered',10  ),
+(1026,3 ,108,'2026-03-18',1,'Delivered',8   ),
+(1027,8 ,105,'2026-03-25',1,'Cancelled',NULL),
+(1028,1 ,103,'2026-04-02',1,'Delivered',11  ),
+(1029,2 ,105,'2026-04-05',1,'Delivered',9   ),
+(1030,10,101,'2026-04-08',1,'Delivered',14  ),
+(1031,4 ,102,'2026-04-10',3,'Delivered',8   ),
+(1032,5 ,105,'2026-04-12',1,'Delivered',10  );
